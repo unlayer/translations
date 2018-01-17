@@ -8,7 +8,7 @@
   "buttons.show_fewer_options": "Visa färre inställningar",
   "buttons.upload_image": "Ladda upp bild",
   "buttons.change_image": "Byt bild",
-  "modals.delete.confirmation": "Är du säker på att du vill radera? Det går inte att ångra.",//"Are you sure you want to delete this? This action cannot be undone.",
+  "modals.delete.confirmation": "Är du säker på att du vill radera? Det går inte att ångra.",
   "modals.delete.title": "Radera",
   "tools.tabs.content": "Innehåll",
   "tools.tabs.row": "Rad",
