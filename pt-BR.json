@@ -59,6 +59,7 @@
   "editor.image_link.label": "Link da Imagem",
   "editor.align.label": "Alinhar",
   "editor.width.label": "Largura",
+  "editor.full_width.label": "100% de Largura",
   "editor.alternate_text.label": "Texto alternativo",
   "editor.border.label": "Borda",
   "editor.rounded_border.label": "Bordar arrendodada",

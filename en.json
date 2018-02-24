@@ -59,6 +59,7 @@
   "editor.image_link.label": "Image Link",
   "editor.align.label": "Align",
   "editor.width.label": "Width",
+  "editor.full_width.label": "Full Width",
   "editor.alternate_text.label": "Alternate Text",
   "editor.border.label": "Border",
   "editor.rounded_border.label": "Rounded Border",
