@@ -2,6 +2,7 @@
   "buttons.done": "Done",
   "buttons.delete": "Delete",
   "buttons.cancel": "Cancel",
+  "buttons.duplicate": "Duplicate",
   "buttons.add_new_field": "Add New Field",
   "buttons.more_options": "More Options",
   "buttons.show_more_options": "Show More Options",
