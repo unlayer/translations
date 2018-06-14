@@ -37,6 +37,7 @@
   "option_groups.button.title": "按鈕",
   "option_groups.link.title": "連結",
   "option_groups.html.title": "HTML",
+  "editor.placeholder.text": "这里没有内容。 从右侧拖动内容。",
   "editor.color.label": "顏色",
   "editor.text_align.label": "文字排列",
   "editor.line_height.label": "行高",

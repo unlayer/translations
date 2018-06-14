@@ -37,6 +37,7 @@
   "option_groups.button.title": "Button",
   "option_groups.link.title": "Link",
   "option_groups.html.title": "HTML",
+  "editor.placeholder.text": "No content here. Drag content from right.",
   "editor.color.label": "Color",
   "editor.text_align.label": "Text Align",
   "editor.line_height.label": "Line Height",

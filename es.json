@@ -37,6 +37,7 @@
   "option_groups.button.title": "Botón",
   "option_groups.link.title": "Enlace",
   "option_groups.html.title": "HTML",
+  "editor.placeholder.text": "Sin contenido aquí. Arrastre el contenido desde la derecha.",
   "editor.color.label": "Color",
   "editor.text_align.label": "Alineación Texto",
   "editor.line_height.label": "Altura Línea",
