@@ -43,7 +43,7 @@
   "editor.container_padding.label": "Container Padding",
   "editor.image.label": "Image",
   "editor.image.drop_upload": "Drop a new image here, or click to select files to upload.",
-  "editor.image.upload_error": "There was an error uploading your image. Make sure it's a valid image file with size under 1 MB.",
+  "editor.image.upload_error": "There was an error uploading your image. Make sure it's a valid image file with size under {mbSize} MB.",
   "editor.image.uploading": "Uploading",
   "editor.image.image_url": "Image URL",
   "editor.image.image_options": "Image Options",

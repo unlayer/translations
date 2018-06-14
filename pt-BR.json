@@ -43,7 +43,7 @@
   "editor.container_padding.label": "Espaçamento do Container",
   "editor.image.label": "Imagem",
   "editor.image.drop_upload": "Arraste uma nova imagem aqui, ou clique para selecionar os arquivos para enviar.",
-  "editor.image.upload_error": "Ocorreu um erro ao enviar sua imagem. Confirme se é um arquivo de imagem válido com o tamanho menhor 1 MB.",
+  "editor.image.upload_error": "Ocorreu um erro ao enviar sua imagem. Confirme se é um arquivo de imagem válido com o tamanho menhor {mbSize} MB.",
   "editor.image.uploading": "Enviando",
   "editor.image.image_url": "URL da Imagem",
   "editor.image.image_options": "Opções da Imagem",

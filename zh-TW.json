@@ -43,7 +43,7 @@
   "editor.container_padding.label": "內容邊距",
   "editor.image.label": "圖片",
   "editor.image.drop_upload": "拖放一張圖片至此，或選擇一張照片上傳",
-  "editor.image.upload_error": "上傳照片失敗。 請確定您的圖片格式和檔案大小必須小於 1 MB.",
+  "editor.image.upload_error": "上傳照片失敗。 請確定您的圖片格式和檔案大小必須小於 {mbSize} MB.",
   "editor.image.uploading": "上傳中",
   "editor.image.image_url": "圖片 URL",
   "editor.image.image_options": "圖片選項",

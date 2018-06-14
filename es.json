@@ -43,7 +43,7 @@
   "editor.container_padding.label": "Relleno Contenedor",
   "editor.image.label": "Imagen",
   "editor.image.drop_upload": "Suelta una nueva imagen aquí, o haz clic para seleccionar los ficheros a subir.",
-  "editor.image.upload_error": "Ha habido un error subiendo tu imagen. Asegúrate de que es un fichero de imágen válido con un tamaño menor a 1 MB.",
+  "editor.image.upload_error": "Ha habido un error subiendo tu imagen. Asegúrate de que es un fichero de imágen válido con un tamaño menor a {mbSize} MB.",
   "editor.image.uploading": "Subiendo",
   "editor.image.image_url": "URL Imagen",
   "editor.image.image_options": "Opciones Imagen",
