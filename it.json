@@ -37,6 +37,7 @@
   "option_groups.button.title": "Bottone",
   "option_groups.link.title": "Collegamento",
   "option_groups.html.title": "HTML",
+  "option_groups.mobile.title": "Mobile",
   "editor.placeholder.text": "Nessun contenuto presente. Rilascia del contenuto da destra.",
   "editor.color.label": "Colore",
   "editor.text_align.label": "Allineamento Testo",
@@ -88,5 +89,6 @@
   "editor.top.label": "Alto",
   "editor.right.label": "Destra",
   "editor.bottom.label": "Basso",
-  "editor.left.label": "Sinistra"
+  "editor.left.label": "Sinistra",
+  "editor.do_not_stack_on_mobile.label": "Non impilare su dispositivi mobili"
 }

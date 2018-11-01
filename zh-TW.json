@@ -37,6 +37,7 @@
   "option_groups.button.title": "按鈕",
   "option_groups.link.title": "連結",
   "option_groups.html.title": "HTML",
+  "option_groups.mobile.title": "移動",
   "editor.placeholder.text": "这里没有内容。 从右侧拖动内容。",
   "editor.color.label": "顏色",
   "editor.text_align.label": "文字排列",
@@ -88,5 +89,6 @@
   "editor.top.label": "上",
   "editor.right.label": "右",
   "editor.bottom.label": "下",
-  "editor.left.label": "左"
+  "editor.left.label": "左",
+  "editor.do_not_stack_on_mobile.label": "不要在手機上堆疊"
 }

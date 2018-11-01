@@ -37,6 +37,7 @@
   "option_groups.button.title": "Button",
   "option_groups.link.title": "Link",
   "option_groups.html.title": "HTML",
+  "option_groups.mobile.title": "Mobile",
   "editor.placeholder.text": "No content here. Drag content from right.",
   "editor.color.label": "Color",
   "editor.text_align.label": "Text Align",
@@ -88,5 +89,6 @@
   "editor.top.label": "Top",
   "editor.right.label": "Right",
   "editor.bottom.label": "Bottom",
-  "editor.left.label": "Left"
+  "editor.left.label": "Left",
+  "editor.do_not_stack_on_mobile.label": "Do Not Stack on Mobile"
 }

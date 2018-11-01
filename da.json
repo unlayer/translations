@@ -37,6 +37,7 @@
   "option_groups.button.title": "Knap",
   "option_groups.link.title": "Link",
   "option_groups.html.title": "HTML",
+  "option_groups.mobile.title": "Mobil",
   "editor.placeholder.text": "Der er ikke noget indhold. Træk noget ind fra højre side.",
   "editor.color.label": "Farve",
   "editor.text_align.label": "Tekstjustering",
@@ -88,5 +89,6 @@
   "editor.top.label": "Top",
   "editor.right.label": "Højre",
   "editor.bottom.label": "Bund",
-  "editor.left.label": "Venstre"
+  "editor.left.label": "Venstre",
+  "editor.do_not_stack_on_mobile.label": "Stak ikke på mobil"
 }

@@ -37,6 +37,7 @@
   "option_groups.button.title": "Bouton",
   "option_groups.link.title": "Lien",
   "option_groups.html.title": "HTML",
+  "option_groups.mobile.title": "Mobile",
   "editor.placeholder.text": "Pas de contenu ici. Faites glisser le contenu de droite.",
   "editor.color.label": "Couleur",
   "editor.text_align.label": "Alignement du texte",
@@ -88,5 +89,6 @@
   "editor.top.label": "Haut",
   "editor.right.label": "Droite",
   "editor.bottom.label": "Bas",
-  "editor.left.label": "Gauche"
+  "editor.left.label": "Gauche",
+  "editor.do_not_stack_on_mobile.label": "Ne pas empiler sur mobile"
 }

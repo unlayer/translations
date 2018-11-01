@@ -37,6 +37,7 @@
   "option_groups.button.title": "Knapp",
   "option_groups.link.title": "Knapplänk",
   "option_groups.html.title": "HTML",
+  "option_groups.mobile.title": "Mobil",
   "editor.placeholder.text": "Inget innehåll här. Dra innehåll från höger.",
   "editor.color.label": "Färg",
   "editor.text_align.label": "Textjustering",
@@ -88,5 +89,6 @@
   "editor.top.label": "Överkant",
   "editor.right.label": "Höger",
   "editor.bottom.label": "Nederkant",
-  "editor.left.label": "Vänster"
+  "editor.left.label": "Vänster",
+  "editor.do_not_stack_on_mobile.label": "Stack inte på mobilen"
 }

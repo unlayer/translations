@@ -37,6 +37,7 @@
   "option_groups.button.title": "Buton",
   "option_groups.link.title": "Bağlantı",
   "option_groups.html.title": "HTML",
+  "option_groups.mobile.title": "Seyyar",
   "editor.placeholder.text": "İçerik Yok. Sağ bölümden İçerik sürukleyip buraya bırakın.",
   "editor.color.label": "Renk",
   "editor.text_align.label": "Metin Hizalama",
@@ -88,5 +89,6 @@
   "editor.top.label": "Üst",
   "editor.right.label": "Sa",
   "editor.bottom.label": "Alt",
-  "editor.left.label": "Sol"
+  "editor.left.label": "Sol",
+  "editor.do_not_stack_on_mobile.label": "Mobilde Yığınlama"
 }
