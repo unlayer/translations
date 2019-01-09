@@ -10,6 +10,8 @@
   "buttons.upload_image": "上传图片",
   "buttons.change_image": "更换图片",
   "buttons.add_row": "Add Row",
+  "buttons.add_content": "Add Content",
+  "buttons.deselect": "Deselect",
   "modals.delete.confirmation": "你确定删除吗？此操作无法复原。",
   "modals.delete.title": "刪除",
   "tools.tabs.content": "内容",

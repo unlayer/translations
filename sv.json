@@ -10,6 +10,8 @@
   "buttons.upload_image": "Ladda upp bild",
   "buttons.change_image": "Byt bild",
   "buttons.add_row": "Lägg till rad",
+  "buttons.add_content": "Lägg till innehåll",
+  "buttons.deselect": "Välja bort",
   "modals.delete.confirmation": "Är du säker på att du vill radera? Det går inte att ångra.",
   "modals.delete.title": "Radera",
   "tools.tabs.content": "Innehåll",

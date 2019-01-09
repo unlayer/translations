@@ -10,6 +10,8 @@
   "buttons.upload_image": "Enviar Imagem",
   "buttons.change_image": "Trocar Imagem",
   "buttons.add_row": "Adicionar linha",
+  "buttons.add_content": "Adicionar conteúdo",
+  "buttons.deselect": "Desmarcar",
   "modals.delete.confirmation": "Você tem certeza que deseja apagar este item? Esta ação não poderá ser desfeita.",
   "modals.delete.title": "Apagar",
   "tools.tabs.content": "Conteúdo",

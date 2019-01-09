@@ -10,6 +10,8 @@
   "buttons.upload_image": "Upload Image",
   "buttons.change_image": "Change Image",
   "buttons.add_row": "Add Row",
+  "buttons.add_content": "Add Content",
+  "buttons.deselect": "Deselect",
   "modals.delete.confirmation": "Are you sure you want to delete this? This action cannot be undone.",
   "modals.delete.title": "Delete",
   "tools.tabs.content": "Content",

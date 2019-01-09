@@ -10,6 +10,8 @@
   "buttons.upload_image": "Subir Imagen",
   "buttons.change_image": "Cambiar Imagen",
   "buttons.add_row": "Añadir fila",
+  "buttons.add_content": "Agregar contenido",
+  "buttons.deselect": "Deseleccionar",
   "modals.delete.confirmation": "¿Estás seguro de que quieres eliminar esto? Esta acción no se puede deshacer.",
   "modals.delete.title": "Eliminar",
   "tools.tabs.content": "Contenido",

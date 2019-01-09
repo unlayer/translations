@@ -10,6 +10,8 @@
   "buttons.upload_image": "Envoyer une image",
   "buttons.change_image": "Changer l'image",
   "buttons.add_row": "Ajouter une ligne",
+  "buttons.add_content": "Ajouter du contenu",
+  "buttons.deselect": "Désélectionner",
   "modals.delete.confirmation": "Êtes-vous sûr de vouloir supprimer ceci ? Cette action ne peut pas être annulée.",
   "modals.delete.title": "Supprimer",
   "tools.tabs.content": "Contenu",

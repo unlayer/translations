@@ -10,6 +10,8 @@
   "buttons.upload_image": "Overfør billede",
   "buttons.change_image": "Skift billede",
   "buttons.add_row": "Tilføj række",
+  "buttons.add_content": "Tilføj indhold",
+  "buttons.deselect": "Fravælg",
   "modals.delete.confirmation": "Er du sikker på at du vil slette dette? Det kan ikke gøres om.",
   "modals.delete.title": "Slet",
   "tools.tabs.content": "Indhold",
