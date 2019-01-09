@@ -14,6 +14,7 @@
   "buttons.deselect": "Välja bort",
   "modals.delete.confirmation": "Är du säker på att du vill radera? Det går inte att ångra.",
   "modals.delete.title": "Radera",
+  "modals.delete.columns": "Du kommer att förlora {columns} kolumner. Är du säker?",
   "tools.tabs.content": "Innehåll",
   "tools.tabs.row": "Rad",
   "tools.tabs.body": "Sida",

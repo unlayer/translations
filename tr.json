@@ -14,6 +14,7 @@
   "buttons.deselect": "Seçimini kaldır",
   "modals.delete.confirmation": "Bunu silmek istediğine emin misin? Bu işlem geri alınamaz.",
   "modals.delete.title": "Sil",
+  "modals.delete.columns": "{columns} sütun kaybedeceksin. Emin misiniz?", 
   "tools.tabs.content": "İçerik",
   "tools.tabs.row": "Satır",
   "tools.tabs.body": "Gövde",

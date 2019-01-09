@@ -14,6 +14,7 @@
   "buttons.deselect": "Deselect",
   "modals.delete.confirmation": "你确定删除吗？此操作无法复原。",
   "modals.delete.title": "刪除",
+  "modals.delete.columns": "You will lose {columns, number} {columns, plural, one {column} other {columns}}. Are you sure?",
   "tools.tabs.content": "内容",
   "tools.tabs.row": "栏位",
   "tools.tabs.body": "信件",

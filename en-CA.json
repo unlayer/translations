@@ -14,6 +14,7 @@
 	"buttons.deselect": "Deselect",
 	"modals.delete.confirmation": "Are you sure you want to delete this? This action cannot be undone.",
 	"modals.delete.title": "Delete",
+	"modals.delete.columns": "You will lose {columns, number} {columns, plural, one {column} other {columns}}. Are you sure?",
 	"tools.tabs.content": "Content",
 	"tools.tabs.row": "Rows",
 	"tools.tabs.body": "Settings",

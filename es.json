@@ -14,6 +14,7 @@
   "buttons.deselect": "Deseleccionar",
   "modals.delete.confirmation": "¿Estás seguro de que quieres eliminar esto? Esta acción no se puede deshacer.",
   "modals.delete.title": "Eliminar",
+  "modals.delete.columns": "Perderás {columns, number} {columns, plural, one {columna} other {columnas}}. ¿Estás seguro?",
   "tools.tabs.content": "Contenido",
   "tools.tabs.row": "Fila",
   "tools.tabs.body": "Cuerpo",

@@ -14,6 +14,7 @@
   "buttons.deselect": "Desmarcar",
   "modals.delete.confirmation": "Você tem certeza que deseja apagar este item? Esta ação não poderá ser desfeita.",
   "modals.delete.title": "Apagar",
+  "modals.delete.columns": "Você perderá {columns, number} {columns, plural, one {coluna} other {colunas}}. Você tem certeza?",
   "tools.tabs.content": "Conteúdo",
   "tools.tabs.row": "Linha",
   "tools.tabs.body": "Corpo",

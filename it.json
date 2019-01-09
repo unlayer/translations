@@ -14,6 +14,7 @@
   "buttons.deselect": "Deseleziona",
   "modals.delete.confirmation": "Vuoi davvero eliminare questo elemento? Questa azione non può essere annullata.",
   "modals.delete.title": "Elimina",
+  "modals.delete.columns": "Perderai {columns, number} {columns, plural, one {colonna} other {colonne}}. Sei sicuro?",
   "tools.tabs.content": "Contenuto",
   "tools.tabs.row": "Riga",
   "tools.tabs.body": "Corpo",

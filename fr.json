@@ -14,6 +14,7 @@
   "buttons.deselect": "Désélectionner",
   "modals.delete.confirmation": "Êtes-vous sûr de vouloir supprimer ceci ? Cette action ne peut pas être annulée.",
   "modals.delete.title": "Supprimer",
+  "modals.delete.columns": "Vous allez perdre {columns, number} {columns, plural, one {colonne} other {colonnes}}. Êtes-vous sûr?",
   "tools.tabs.content": "Contenu",
   "tools.tabs.row": "Ligne",
   "tools.tabs.body": "Corps",
