@@ -61,7 +61,7 @@
 	"editor.background_image.center": "Centrer",
 	"editor.border.solid": "Ligne",
 	"editor.border.dotted": "Points",
-	"editor.border.dotted": "Tirets",
+	"editor.border.dashed": "Tirets",
 	"editor.link.same_tab": "Même onglet",
 	"editor.link.new_tab": "Nouvel onglet",
 	"editor.link.url": "URL",
