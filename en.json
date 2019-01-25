@@ -47,6 +47,7 @@
   "editor.columns_background.label": "Columns Background",
   "editor.container_padding.label": "Container Padding",
   "editor.content_width.label": "Content Width",
+  "editor.hide_on_mobile.label": "Hide on Mobile",
   "editor.do_not_stack_on_mobile.label": "Do Not Stack on Mobile",
   "editor.fields.label": "Fields",
   "editor.font_family.label": "Font Family",
