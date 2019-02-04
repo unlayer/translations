@@ -48,6 +48,7 @@
   "editor.form_alignment.label": "Form alignment",
   "editor.form_width.label": "Form width",
   "editor.full_width.label": "Full width",
+  "editor.hide_on_mobile.label": "Hide on mobile",
   "editor.hover_color.label": "Hover color",
   "editor.image.drop_upload": "Drop a new image here, or click to select files to upload.",
   "editor.image.image_options": "Image options",
