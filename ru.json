@@ -99,7 +99,7 @@
   "fields.phone_number": "Номер телефона",
   "fields.website": "Веб-сайт",
   "fields.zip_code": "Почтовый индекс",
-  "modals.delete.columns": "Вы потеряете {столбца, number} {столбцы, plural, one {столбец}  other {столбцы}}. Уверены?",
+  "modals.delete.columns": "Вы потеряете {columns, number} {columns, plural, one {столбец}  other {столбцы}}. Уверены?",
   "modals.delete.confirmation": "Вы уверены, что хотите удалить это? Это действие не может быть отменено.",
   "modals.delete.title": "Удалить",
   "option_groups.action.title": "Действие",
