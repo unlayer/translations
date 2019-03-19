@@ -117,7 +117,7 @@
   "option_groups.button.title": "按钮",
   "option_groups.colors.title": "颜色",
   "option_groups.columns.title": "列",
-  "option_groups.column_number.title": "列 {列编号}",
+  "option_groups.column_number.title": "列 {columnNumber}",
   "option_groups.column_properties.title": "列属性",
   "option_groups.default.title": "一般",
   "option_groups.fields.title": "栏位",
