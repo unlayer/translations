@@ -105,7 +105,7 @@
   "labels.tags": "Теги",
   "modals.category.invalid": "Это неверное имя категории",
   "modals.category.placeholder": "Имя категории",
-  "modals.delete.columns": "Вы потеряете {столбца, number} {столбцы, plural, one {столбец}  other {столбцы}}. Уверены?",
+  "modals.delete.columns": "Вы потеряете {columns, number} {columns, plural, one {столбец}  other {столбцы}}. Уверены?",
   "modals.delete.confirmation": "Вы уверены, что хотите удалить это? Это действие не может быть отменено.",
   "modals.delete.title": "Удалить",
   "modals.save_row.title": "Сохранить строку",
