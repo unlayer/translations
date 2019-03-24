@@ -108,7 +108,6 @@
   "modals.delete.columns": "Vous allez perdre {columns, number} {columns, plural, one {colonne} other {colonnes}}. Êtes-vous sûr?",
   "modals.delete.confirmation": "Êtes-vous sûr de vouloir supprimer cet élément? Cette action ne peut pas être annulée.",
   "modals.delete.title": "Supprimer",
-  "modals.save_row.title": "Sauvegarder la ligne",
   "modals.tags.description": "Les balises sont utilisées pour la recherche. Plusieurs balises peuvent être séparées par une virgule.",
   "modals.tags.placeholder": "balise1, balise 2",
   "option_groups.action.title": "Action",
@@ -156,6 +155,5 @@
   "tools.tabs.body": "Paramètres",
   "tools.tabs.content": "Contenu",
   "tools.tabs.row": "Ligne",
-  "tools.tabs.rows": "Lignes",
   "tools.text.personalize": "Personnaliser"
 }

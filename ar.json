@@ -108,7 +108,6 @@
   "modals.delete.columns": "سوف تفقد  {columns, number} {columns, plural, one {column} other {columns}}.هل أنت متأكد؟",
   "modals.delete.confirmation": "هل أنت متأكد أنك تريد حذف هذا؟ لا يمكن التراجع عن هذا الإجراء.",
   "modals.delete.title": "حذف",
-  "modals.save_row.title": "حفظ الصف",
   "modals.tags.description": "تُستخدم العلامات للبحث. يمكن فصل علامات متعددة بفاصلة.",
   "modals.tags.placeholder": "علامة1، علامة2",
   "option_groups.action.title": "إجراء",
@@ -156,6 +155,5 @@
   "tools.tabs.body": "الموضوع الأساسي",
   "tools.tabs.content": "محتوى",
   "tools.tabs.row": "صف",
-  "tools.tabs.rows": "الصفوف",
   "tools.text.personalize": "تخصيص"
 }

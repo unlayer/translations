@@ -108,7 +108,6 @@
   "modals.delete.columns": "Вы потеряете {columns, number} {columns, plural, one {столбец}  other {столбцы}}. Уверены?",
   "modals.delete.confirmation": "Вы уверены, что хотите удалить это? Это действие не может быть отменено.",
   "modals.delete.title": "Удалить",
-  "modals.save_row.title": "Сохранить строку",
   "modals.tags.description": "Теги используются для поиска. Несколько тегов могут быть разделены запятой.",
   "modals.tags.placeholder": "тег1, тег2",
   "option_groups.action.title": "Действие",
@@ -156,6 +155,5 @@
   "tools.tabs.body": "Текст",
   "tools.tabs.content": "Содежимое",
   "tools.tabs.row": "Ряд",
-  "tools.tabs.rows": "Строки",
   "tools.text.personalize": "Персонализировать"
 }

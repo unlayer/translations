@@ -108,7 +108,6 @@
   "modals.delete.columns": "你将失去{columns, number} {columns, plural, 1个 {column} 其它 {columns}}。你确定吗？",
   "modals.delete.confirmation": "你确定删除吗？此操作无法复原。",
   "modals.delete.title": "刪除",
-  "modals.save_row.title": "保存行",
   "modals.tags.description": "标签用于搜索。多个标签可用逗号分隔。",
   "modals.tags.placeholder": "标签 1，标签 2",
   "option_groups.action.title": "编辑连接",
@@ -156,6 +155,5 @@
   "tools.tabs.body": "信件",
   "tools.tabs.content": "内容",
   "tools.tabs.row": "栏位",
-  "tools.tabs.rows": "行",
   "tools.text.personalize": "动态标签"
 }

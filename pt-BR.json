@@ -108,7 +108,6 @@
   "modals.delete.columns": "Você perderá {columns, number} {columns, plural, one {coluna} other {colunas}}. Você tem certeza?",
   "modals.delete.confirmation": "Você tem certeza que deseja apagar este item? Esta ação não poderá ser desfeita.",
   "modals.delete.title": "Apagar",
-  "modals.save_row.title": "Salvar Linha",
   "modals.tags.description": "Etiquetas são usadas para pesquisar. Várias etiquetas podem ser separadas por uma vírgula.",
   "modals.tags.placeholder": "etiqueta1, etiqueta2",
   "option_groups.action.title": "Ação",
@@ -156,6 +155,5 @@
   "tools.tabs.body": "Corpo",
   "tools.tabs.content": "Conteúdo",
   "tools.tabs.row": "Linha",
-  "tools.tabs.rows": "Linhas",
   "tools.text.personalize": "Personalizar"
 }

@@ -108,7 +108,6 @@
   "modals.delete.columns": "{columns} sütun kaybedeceksin. Emin misiniz?",
   "modals.delete.confirmation": "Bunu silmek istediğine emin misin? Bu işlem geri alınamaz.",
   "modals.delete.title": "Sil",
-  "modals.save_row.title": "Sırayı Kaydet",
   "modals.tags.description": "Etiketler arama yapmak için kullanılır. Birden fazla etiket virgül ile ayrılabilir.",
   "modals.tags.placeholder": "etiket1, etiket2",
   "option_groups.action.title": "Action",
@@ -156,6 +155,5 @@
   "tools.tabs.body": "Gövde",
   "tools.tabs.content": "İçerik",
   "tools.tabs.row": "Satır",
-  "tools.tabs.rows": "Sıralar",
   "tools.text.personalize": "Kişiselleştir"
 }

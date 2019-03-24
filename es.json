@@ -108,7 +108,6 @@
   "modals.delete.columns": "Perderás {columns, number} {columns, plural, one {columna} other {columnas}}. ¿Estás seguro?",
   "modals.delete.confirmation": "¿Estás seguro de que quieres eliminar esto? Esta acción no se puede deshacer.",
   "modals.delete.title": "Eliminar",
-  "modals.save_row.title": "Guardar fila",
   "modals.tags.description": "Las etiquetas se usan para realizar búsquedas. Usa comas para separar múltiples etiquetas.",
   "modals.tags.placeholder": "etiqueta1, etiqueta2",
   "option_groups.action.title": "Acción",
@@ -156,6 +155,5 @@
   "tools.tabs.body": "Cuerpo",
   "tools.tabs.content": "Contenido",
   "tools.tabs.row": "Fila",
-  "tools.tabs.rows": "Filas",
   "tools.text.personalize": "Personalizar"
 }

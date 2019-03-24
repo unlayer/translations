@@ -108,7 +108,6 @@
   "modals.delete.columns": "Du kommer att förlora {columns} kolumner. Är du säker?",
   "modals.delete.confirmation": "Är du säker på att du vill radera? Det går inte att ångra.",
   "modals.delete.title": "Radera",
-  "modals.save_row.title": "Spara rad",
   "modals.tags.description": "Taggar används vid sökning. Flera taggar kan åtskiljas med kommatecken.",
   "modals.tags.placeholder": "tagg1, tagg2",
   "option_groups.action.title": "Länk",
@@ -156,6 +155,5 @@
   "tools.tabs.body": "Sida",
   "tools.tabs.content": "Innehåll",
   "tools.tabs.row": "Rad",
-  "tools.tabs.rows": "Rader",
   "tools.text.personalize": "Användarfält"
 }

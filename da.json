@@ -108,7 +108,6 @@
   "modals.delete.columns": "Du vil miste {columns} kolonner. Er du sikker?",
   "modals.delete.confirmation": "Er du sikker på at du vil slette dette? Det kan ikke gøres om.",
   "modals.delete.title": "Slet",
-  "modals.save_row.title": "Gem række",
   "modals.tags.description": "Tags bruges til søgning. Flere tags kan adskilles med et komma.",
   "modals.tags.placeholder": "tag1, tag2",
   "option_groups.action.title": "Link",
@@ -156,6 +155,5 @@
   "tools.tabs.body": "Side",
   "tools.tabs.content": "Indhold",
   "tools.tabs.row": "Række",
-  "tools.tabs.rows": "Rækker",
   "tools.text.personalize": "Personliggør"
 }
