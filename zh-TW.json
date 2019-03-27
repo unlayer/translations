@@ -109,7 +109,6 @@
   "modals.delete.confirmation": "你確定刪除嗎？此操作無法復原。",
   "modals.delete.title": "刪除",
   "modals.save_block.title": "儲存區塊",
-  "modals.save_row.title": "儲存列",
   "modals.tags.description": "標籤被用於搜尋。多個標籤可以用逗號加以分隔。",
   "modals.tags.placeholder": "標籤 1，標籤 2",
   "option_groups.action.title": "編輯連結",

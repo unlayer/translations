@@ -109,7 +109,6 @@
   "modals.delete.confirmation": "Er du sikker på at du vil slette dette? Det kan ikke gøres om.",
   "modals.delete.title": "Slet",
   "modals.save_block.title": "Gem blokke",
-  "modals.save_row.title": "Gem række",
   "modals.tags.description": "Tags bruges til søgning. Flere tags kan adskilles med et komma.",
   "modals.tags.placeholder": "tag1, tag2",
   "option_groups.action.title": "Link",

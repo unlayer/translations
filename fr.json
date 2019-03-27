@@ -109,7 +109,6 @@
   "modals.delete.confirmation": "Êtes-vous sûr de vouloir supprimer ceci ? Cette action ne peut pas être annulée.",
   "modals.delete.title": "Supprimer",
   "modals.save_block.title": "Sauvegarder le bloc",
-  "modals.save_row.title": "Enregistrer la colonne",
   "modals.tags.description": "Les tags sont utilisés pour la recherche. Les tags multiples peuvent être séparés par une virgule.",
   "modals.tags.placeholder": "tag1, tag2",
   "option_groups.action.title": "Action",

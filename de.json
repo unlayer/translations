@@ -109,7 +109,6 @@
   "modals.delete.confirmation": "Sind Sie sicher, dass Sie dieses Objekt löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
   "modals.delete.title": "Löschen",
   "modals.save_block.title": "Block speichern",
-  "modals.save_row.title": "Zeile speichern",
   "modals.tags.description": "Tags werden für die Suche genutzt. Mehrere Tags können mit einem Komma getrennt werden.",
   "modals.tags.placeholder": "Tag1, Tag2",
   "option_groups.action.title": "Aktion",

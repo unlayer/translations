@@ -109,7 +109,6 @@
   "modals.delete.confirmation": "Você tem certeza que deseja apagar este item? Esta ação não poderá ser desfeita.",
   "modals.delete.title": "Apagar",
   "modals.save_block.title": "Salve o bloco",
-  "modals.save_row.title": "Salvar Linha",
   "modals.tags.description": "Etiquetas são usadas para pesquisar. Várias etiquetas podem ser separadas por uma vírgula.",
   "modals.tags.placeholder": "etiqueta1, etiqueta2",
   "option_groups.action.title": "Ação",

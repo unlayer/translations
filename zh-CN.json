@@ -109,7 +109,6 @@
   "modals.delete.confirmation": "你确定删除吗？此操作无法复原。",
   "modals.delete.title": "刪除",
   "modals.save_block.title": "保存区块",
-  "modals.save_row.title": "保存行",
   "modals.tags.description": "标签用于搜索。多个标签可用逗号分隔。",
   "modals.tags.placeholder": "标签 1，标签 2",
   "option_groups.action.title": "编辑连接",

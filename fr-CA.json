@@ -109,7 +109,6 @@
   "modals.delete.confirmation": "Êtes-vous sûr de vouloir supprimer cet élément? Cette action ne peut pas être annulée.",
   "modals.delete.title": "Supprimer",
   "modals.save_block.title": "Enregistrer le bloc",
-  "modals.save_row.title": "Sauvegarder la ligne",
   "modals.tags.description": "Les balises sont utilisées pour la recherche. Plusieurs balises peuvent être séparées par une virgule.",
   "modals.tags.placeholder": "balise1, balise 2",
   "option_groups.action.title": "Action",

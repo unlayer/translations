@@ -109,7 +109,6 @@
   "modals.delete.confirmation": "هل أنت متأكد أنك تريد حذف هذا؟ لا يمكن التراجع عن هذا الإجراء.",
   "modals.delete.title": "حذف",
   "modals.save_block.title": "حفظ الأمر البرمجي",
-  "modals.save_row.title": "حفظ الصف",
   "modals.tags.description": "تُستخدم العلامات للبحث. يمكن فصل علامات متعددة بفاصلة.",
   "modals.tags.placeholder": "علامة1، علامة2",
   "option_groups.action.title": "إجراء",

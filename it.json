@@ -109,7 +109,6 @@
   "modals.delete.confirmation": "Vuoi davvero eliminare questo elemento? Questa azione non può essere annullata.",
   "modals.delete.title": "Elimina",
   "modals.save_block.title": "Salva Blocco",
-  "modals.save_row.title": "Salva riga",
   "modals.tags.description": "Le etichette sono utilizzate per la ricerca. Le etichette multiple possono essere separate con una virgola.",
   "modals.tags.placeholder": "etichetta1, etichetta2",
   "option_groups.action.title": "Azione",
