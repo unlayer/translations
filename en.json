@@ -1,5 +1,6 @@
 {
   "buttons.add_content": "Add Content",
+  "buttons.apply_effects": "Apply Effects & More",
   "buttons.add_field": "Add Field",
   "buttons.add_new_field": "Add New Field",
   "buttons.add_row": "Add Row",
@@ -12,6 +13,7 @@
   "buttons.duplicate": "Duplicate",
   "buttons.mobile": "Mobile",
   "buttons.more_options": "More Options",
+  "buttons.save": "Save",
   "buttons.show_fewer_options": "Show Fewer Options",
   "buttons.show_more_options": "Show More Options",
   "buttons.update_field": "Update Field",
