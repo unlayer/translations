@@ -170,6 +170,8 @@
   "labels.format_text": "Tekst vormgeven",
   "labels.google_fonts": "Google lettertypen",
   "labels.gradient": "Verloop",
+  "labels.loading": "Aan het laden",
+  "labels.loading_images": "Afbeeldingen aan het laden",
   "labels.merge_tags": "Tags samenvoegen",
   "labels.mobile_preview": "Voorvertoning mobiel",
   "labels.no_results": "Geen resultaten",
@@ -178,8 +180,11 @@
   "labels.radius": "Radius",
   "labels.redo": "Opnieuw doen",
   "labels.search": "Zoeken",
+  "labels.search_images": "Doorzoek miljoenen afbeeldingen",
   "labels.shadow": "Schaduw",
   "labels.size": "Formaat",
+  "labels.stock_photos_by": "Mogelijk gemaakt door Unsplash, Pexels, Pixabay.",
+  "labels.stock_photos_license": "Alle afbeeldingen gelicentieerd onder Creative Commons Zero.",
   "labels.tags": "Tags",
   "labels.texture": "Textuur",
   "labels.text_style": "Tekststijl",
@@ -240,6 +245,7 @@
   "tools.tabs.blocks": "Blokken",
   "tools.tabs.body": "Lichaam",
   "tools.tabs.content": "Inhoud",
+  "tools.tabs.images": "Afbeeldingen",
   "tools.tabs.row": "Rij",
   "tools.text.personalize": "Personaliseer"
 }

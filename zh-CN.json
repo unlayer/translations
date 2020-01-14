@@ -170,6 +170,8 @@
   "labels.format_text": "格式化文本",
   "labels.google_fonts": "Google字体",
   "labels.gradient": "斜率",
+  "labels.loading": "正在加载",
+  "labels.loading_images": "正在加载图片",
   "labels.merge_tags": "合并标签",
   "labels.mobile_preview": "移动版预览",
   "labels.no_results": "无结果",
@@ -178,8 +180,11 @@
   "labels.radius": "半径",
   "labels.redo": "重做",
   "labels.search": "搜索",
+  "labels.search_images": "搜索数百万张图片",
   "labels.shadow": "阴影",
   "labels.size": "尺寸",
+  "labels.stock_photos_by": "由 Unsplash、Pexels、Pixabay 提供技术支持",
+  "labels.stock_photos_license": "所有图片均由 Creative Commons Zero 授权。",
   "labels.tags": "标签",
   "labels.texture": "纹理",
   "labels.text_style": "文本样式",
@@ -240,6 +245,7 @@
   "tools.tabs.blocks": "区块",
   "tools.tabs.body": "信件",
   "tools.tabs.content": "内容",
+  "tools.tabs.images": "图片",
   "tools.tabs.row": "栏位",
   "tools.text.personalize": "动态标签"
 }

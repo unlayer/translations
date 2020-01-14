@@ -170,6 +170,8 @@
   "labels.format_text": "Metni Biçimle",
   "labels.google_fonts": "Google Yazı Tipleri",
   "labels.gradient": "Gradyan",
+  "labels.loading": "Yükleniyor",
+  "labels.loading_images": "Görseller Yükleniyor",
   "labels.merge_tags": "Etiketleri Birleştir",
   "labels.mobile_preview": "Mobil Önizleme",
   "labels.no_results": "Sonuç Yok",
@@ -178,8 +180,11 @@
   "labels.radius": "Yarıçap",
   "labels.redo": "Yinele",
   "labels.search": "Ara",
+  "labels.search_images": "Milyonlarca görselden arayın",
   "labels.shadow": "Gölge",
   "labels.size": "Boyut",
+  "labels.stock_photos_by": "Unsplash, Pexels ve Pixabay katkılarıyla.",
+  "labels.stock_photos_license": "Tüm görseller Creative Commons Zero ile lisanslıdır.",
   "labels.tags": "Etiketler",
   "labels.texture": "Doku",
   "labels.text_style": "Metin Biçimi",
@@ -240,6 +245,7 @@
   "tools.tabs.blocks": "Bloklar",
   "tools.tabs.body": "Gövde",
   "tools.tabs.content": "İçerik",
+  "tools.tabs.images": "Görseller",
   "tools.tabs.row": "Satır",
   "tools.text.personalize": "Kişiselleştir"
 }

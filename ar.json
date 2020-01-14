@@ -170,6 +170,8 @@
   "labels.format_text": "تنسيق النص",
   "labels.google_fonts": "خطوط جوجل",
   "labels.gradient": "تدرج",
+  "labels.loading": "جارِ التحميل",
+  "labels.loading_images": "جاري تحميل الصور",
   "labels.merge_tags": "دمج العلامات",
   "labels.mobile_preview": "معاينة للهاتف المحمول",
   "labels.no_results": "لا تُوجد نتائج",
@@ -178,8 +180,11 @@
   "labels.radius": "نصف قطر",
   "labels.redo": "إعادة",
   "labels.search": "بحث",
+  "labels.search_images": "البحث في ملايين الصور",
   "labels.shadow": "ظل",
   "labels.size": "حجم",
+  "labels.stock_photos_by": "مدعوم من Unsplash ،Pexels ،Pixabay.",
+  "labels.stock_photos_license": "جميع الصور مرخصة بموجب رخص المشاع الإبداعي.",
   "labels.tags": "العلامات",
   "labels.texture": "هيئة",
   "labels.text_style": "نمط النص",
@@ -240,6 +245,7 @@
   "tools.tabs.blocks": "الأوامر البرمجية",
   "tools.tabs.body": "الموضوع الأساسي",
   "tools.tabs.content": "محتوى",
+  "tools.tabs.images": "الصور",
   "tools.tabs.row": "صف",
   "tools.text.personalize": "تخصيص"
 }

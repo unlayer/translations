@@ -170,6 +170,8 @@
   "labels.format_text": "Formatera text",
   "labels.google_fonts": "Google Fonts",
   "labels.gradient": "Gradient",
+  "labels.loading": "Laddar",
+  "labels.loading_images": "Laddar bilder",
   "labels.merge_tags": "Sammanfoga taggar",
   "labels.mobile_preview": "Förhandsvisning mobil",
   "labels.no_results": "Inga resultat",
@@ -178,8 +180,11 @@
   "labels.radius": "Radie",
   "labels.redo": "Gör om",
   "labels.search": "Sök",
+  "labels.search_images": "Sök bland miljoner bilder",
   "labels.shadow": "Skugga",
   "labels.size": "Storlek",
+  "labels.stock_photos_by": "Drivs av Unsplash, Pexels, Pixabay.",
+  "labels.stock_photos_license": "Alla bilder licensierade under Creative Commons Zero.",
   "labels.tags": "Taggar",
   "labels.texture": "Textur",
   "labels.text_style": "Textstil",
@@ -240,6 +245,7 @@
   "tools.tabs.blocks": "Block",
   "tools.tabs.body": "Sida",
   "tools.tabs.content": "Innehåll",
+  "tools.tabs.images": "Bilder",
   "tools.tabs.row": "Rad",
   "tools.text.personalize": "Användarfält"
 }
