@@ -170,6 +170,8 @@
   "labels.format_text": "Formatta testo",
   "labels.google_fonts": "Google Fonts",
   "labels.gradient": "Gradiente",
+  "labels.loading": "Caricamento",
+  "labels.loading_images": "Caricamento Immagini",
   "labels.merge_tags": "Unisci le Etichette",
   "labels.mobile_preview": "Anteprima mobile",
   "labels.no_results": "Nessun risultato",
@@ -178,8 +180,11 @@
   "labels.radius": "Raggio",
   "labels.redo": "Ripristina",
   "labels.search": "Cerca",
+  "labels.search_images": "Cerca millioni di immagini",
   "labels.shadow": "Ombra",
   "labels.size": "Dimensione",
+  "labels.stock_photos_by": "Alimentato da Unsplash, Pexels, Pixbay.",
+  "labels.stock_photos_license": "Tutte le immagini sotto licenza di Creative Commons Zero.",
   "labels.tags": "Etichette",
   "labels.texture": "Trama",
   "labels.text_style": "Stile di testo",
@@ -240,6 +245,7 @@
   "tools.tabs.blocks": "Blocchi",
   "tools.tabs.body": "Corpo",
   "tools.tabs.content": "Contenuto",
+  "tools.tabs.images": "Immagini",
   "tools.tabs.row": "Riga",
   "tools.text.personalize": "Personalizza"
 }

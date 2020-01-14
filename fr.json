@@ -170,6 +170,8 @@
   "labels.format_text": "Formater le texte",
   "labels.google_fonts": "Polices Google",
   "labels.gradient": "Dégradé",
+  "labels.loading": "Chargement",
+  "labels.loading_images": "Chargement des photos",
   "labels.merge_tags": "Fusionner les balises",
   "labels.mobile_preview": "Aperçu mobile",
   "labels.no_results": "Aucun résultat",
@@ -178,8 +180,11 @@
   "labels.radius": "Rayon",
   "labels.redo": "Rétablir",
   "labels.search": "Rechercher",
+  "labels.search_images": "Recherchez parmi des millions de photos",
   "labels.shadow": "Ombre",
   "labels.size": "Taille",
+  "labels.stock_photos_by": "Produit par Unsplash, Pexels, Pixabay.",
+  "labels.stock_photos_license": "Toutes les photos sont sous licence Creative Commons Zero.",
   "labels.tags": "Tags",
   "labels.texture": "Texture",
   "labels.text_style": "Style de texte",
@@ -240,6 +245,7 @@
   "tools.tabs.blocks": "Blocs",
   "tools.tabs.body": "Corps",
   "tools.tabs.content": "Contenu",
+  "tools.tabs.images": "Photos",
   "tools.tabs.row": "Ligne",
   "tools.text.personalize": "Personnaliser"
 }

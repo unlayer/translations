@@ -170,6 +170,8 @@
   "labels.format_text": "格式化文字",
   "labels.google_fonts": "Google Fonts",
   "labels.gradient": "漸層",
+  "labels.loading": "正在載入",
+  "labels.loading_images": "正在載入影像",
   "labels.merge_tags": "合併標籤",
   "labels.mobile_preview": "行動裝置預覽",
   "labels.no_results": "沒有結果",
@@ -178,8 +180,11 @@
   "labels.radius": "半徑",
   "labels.redo": "取消復原",
   "labels.search": "搜尋",
+  "labels.search_images": "搜尋幾百萬個影像",
   "labels.shadow": "陰影",
   "labels.size": "大小",
+  "labels.stock_photos_by": "由 Unsplash、Pexels、Pixabay 驅動。",
+  "labels.stock_photos_license": "所有影像均經 Creative Commons Zero 授權。",
   "labels.tags": "標籤",
   "labels.texture": "紋理",
   "labels.text_style": "文字樣式",
@@ -240,6 +245,7 @@
   "tools.tabs.blocks": "區塊群",
   "tools.tabs.body": "信件",
   "tools.tabs.content": "內容",
+  "tools.tabs.images": "影像",
   "tools.tabs.row": "欄位",
   "tools.text.personalize": "動態標籤"
 }

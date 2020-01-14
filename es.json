@@ -170,6 +170,8 @@
   "labels.format_text": "Formatear texto",
   "labels.google_fonts": "Fuentes de Google",
   "labels.gradient": "Gradiente",
+  "labels.loading": "Cargando",
+  "labels.loading_images": "Cargando imágenes",
   "labels.merge_tags": "Etiquetas de combinación",
   "labels.mobile_preview": "Vista previa móvil",
   "labels.no_results": "Ningún resultado",
@@ -178,8 +180,11 @@
   "labels.radius": "Radio",
   "labels.redo": "Rehacer",
   "labels.search": "Búsqueda",
+  "labels.search_images": "Busca millones de imágenes",
   "labels.shadow": "Sombra",
   "labels.size": "Tamaño",
+  "labels.stock_photos_by": "Con tecnología Unsplash, Pexels, Pixabay.",
+  "labels.stock_photos_license": "Todas las imágenes bajo licencia Creative Commons Zero.",
   "labels.tags": "Etiquetas",
   "labels.texture": "Textura",
   "labels.text_style": "Estilo del texto",
@@ -240,6 +245,7 @@
   "tools.tabs.blocks": "Bloques",
   "tools.tabs.body": "Cuerpo",
   "tools.tabs.content": "Contenido",
+  "tools.tabs.images": "Imágenes",
   "tools.tabs.row": "Fila",
   "tools.text.personalize": "Personalizar"
 }

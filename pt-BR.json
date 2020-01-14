@@ -170,6 +170,8 @@
   "labels.format_text": "Formatar Texto",
   "labels.google_fonts": "Google Fonts",
   "labels.gradient": "Gradiente",
+  "labels.loading": "Carregando",
+  "labels.loading_images": "Carregando imagens",
   "labels.merge_tags": "Mesclar Marcadores",
   "labels.mobile_preview": "Visualização Móvel",
   "labels.no_results": "Sem Resultados",
@@ -178,8 +180,11 @@
   "labels.radius": "Raio",
   "labels.redo": "Refazer",
   "labels.search": "Pesquisar",
+  "labels.search_images": "Pesquise milhões de imagens",
   "labels.shadow": "Sombra",
   "labels.size": "Tamanho",
+  "labels.stock_photos_by": "Desenvolvido por Unsplash, Pexels, Pixabay.",
+  "labels.stock_photos_license": "Todas as imagens licenciadas sob a Creative Commons Zero.",
   "labels.tags": "Etiquetas",
   "labels.texture": "Textura",
   "labels.text_style": "Estilo do Texto",
@@ -240,6 +245,7 @@
   "tools.tabs.blocks": "Blocos",
   "tools.tabs.body": "Corpo",
   "tools.tabs.content": "Conteúdo",
+  "tools.tabs.images": "Imagens",
   "tools.tabs.row": "Linha",
   "tools.text.personalize": "Personalizar"
 }

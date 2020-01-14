@@ -170,6 +170,8 @@
   "labels.format_text": "Форматировать текст",
   "labels.google_fonts": "Шрифты Google",
   "labels.gradient": "Градиент",
+  "labels.loading": "Загрузка",
+  "labels.loading_images": "Загрузка изображений",
   "labels.merge_tags": "Объединить теги",
   "labels.mobile_preview": "Предварительный просмотр на мобильном телефоне",
   "labels.no_results": "Нет результатов",
@@ -178,8 +180,11 @@
   "labels.radius": "Радиус",
   "labels.redo": "Повторить",
   "labels.search": "Поиск",
+  "labels.search_images": "Поиск среди миллионов изображений",
   "labels.shadow": "Тень",
   "labels.size": "Размер",
+  "labels.stock_photos_by": "При поддержке Unsplash, Pexels, Pixabay.",
+  "labels.stock_photos_license": "Все изображения под лицензией Creative Commons Zero.",
   "labels.tags": "Теги",
   "labels.texture": "Текстура",
   "labels.text_style": "Стиль текста",
@@ -240,6 +245,7 @@
   "tools.tabs.blocks": "Блоки",
   "tools.tabs.body": "Текст",
   "tools.tabs.content": "Содежимое",
+  "tools.tabs.images": "Изображения",
   "tools.tabs.row": "Ряд",
   "tools.text.personalize": "Персонализировать"
 }
