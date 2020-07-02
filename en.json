@@ -155,6 +155,7 @@
   "editor.link.url": "URL",
   "editor.link_color.label": "Link Color",
   "editor.margin.label": "Margin",
+  "editor.mobile.description": "You are currently editing for Mobile devices. Switch to Desktop for all styling options.",
   "editor.padding.label": "Padding",
   "editor.placeholder.text": "No content here. Drag content from right.",
   "editor.play_icon_color.label": "Play Icon Color",
