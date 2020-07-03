@@ -155,6 +155,7 @@
   "editor.link.url": "URL",
   "editor.link_color.label": "Colore link",
   "editor.margin.label": "Margine",
+  "editor.mobile.description": "In questo momento stai effettuando modifiche per dispositivi mobili. Passa a Desktop per tutte le opzioni di stile.",
   "editor.padding.label": "Spaziatura",
   "editor.placeholder.text": "Nessun contenuto presente. Rilascia del contenuto da destra.",
   "editor.play_icon_color.label": "Colore Icone Riproduci",
