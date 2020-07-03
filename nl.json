@@ -155,6 +155,7 @@
   "editor.link.url": "URL",
   "editor.link_color.label": "Kleur van link",
   "editor.margin.label": "Marge",
+  "editor.mobile.description": "Je bent momenteel aan het bewerken voor mobiele apparaten. Wissel naar 'Desktop' voor alle stylingopties.",
   "editor.padding.label": "Padding",
   "editor.placeholder.text": "Geen inhoud hier. Sleep inhoud van rechts.",
   "editor.play_icon_color.label": "Speel pictogramkleur",

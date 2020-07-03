@@ -155,6 +155,7 @@
   "editor.link.url": "URL",
   "editor.link_color.label": "链接颜色",
   "editor.margin.label": "间隔",
+  "editor.mobile.description": "您当前正在为移动终端设备进行编辑。切换到桌面版以便获取所有样式选项。",
   "editor.padding.label": "边距",
   "editor.placeholder.text": "这里没有内容。 从右侧拖动内容。",
   "editor.play_icon_color.label": "播放图标颜色",

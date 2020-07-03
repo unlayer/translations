@@ -155,6 +155,7 @@
   "editor.link.url": "URL",
   "editor.link_color.label": "컬러 링크",
   "editor.margin.label": "외부 여백",
+  "editor.mobile.description": "현재 모바일 기기 모드로 편집 중입니다. 모든 스타일 옵션을 보려면 데스크톱 모드로 전환하세요.",
   "editor.padding.label": "Padding",
   "editor.placeholder.text": "우측에서 컨텐츠를 드래그하여 삽입할 수 있습니다.",
   "editor.play_icon_color.label": "재생 아이콘 색상",
