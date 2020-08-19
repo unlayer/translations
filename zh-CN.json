@@ -202,6 +202,7 @@
   "labels.language": "语言",
   "labels.loading": "正在加载",
   "labels.loading_images": "正在加载图片",
+  "labels.load_more": "加载更多",
   "labels.merge_tags": "合并标签",
   "labels.mobile_preview": "移动版预览",
   "labels.no_images": "无图像",

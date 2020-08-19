@@ -202,6 +202,7 @@
   "labels.language": "언어",
   "labels.loading": "로드 중",
   "labels.loading_images": "이미지 로드 중",
+  "labels.load_more": "더 로드하기",
   "labels.merge_tags": "태그 합치기",
   "labels.mobile_preview": "모바일로 보기",
   "labels.no_images": "이미지 없음",
