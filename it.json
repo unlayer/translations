@@ -1,4 +1,5 @@
 {
+  "buttons.add_column": "Aggiungi Colonna",
   "buttons.add_content": "Aggiungi contenuto",
   "buttons.add_display_condition": "Aggiungi condizione di visualizzazione",
   "buttons.add_field": "Aggiungi Campo",
@@ -30,6 +31,7 @@
   "buttons.mobile": "Mobile",
   "buttons.more_options": "Più Opzioni",
   "buttons.open": "Apri",
+  "buttons.remove_column": "Rimuovi Colonna",
   "buttons.resize": "Ridimensiona",
   "buttons.save": "Salva",
   "buttons.shape": "Forma",

@@ -1,4 +1,5 @@
 {
+  "buttons.add_column": "Lägg till kolumn",
   "buttons.add_content": "Lägg till innehåll",
   "buttons.add_display_condition": "Lägg till displaytillstånd",
   "buttons.add_field": "Lägg till fält",
@@ -30,6 +31,7 @@
   "buttons.mobile": "Mobil",
   "buttons.more_options": "Fler inställningar",
   "buttons.open": "Öppna",
+  "buttons.remove_column": "Ta bort kolumn",
   "buttons.resize": "Ändra storlek",
   "buttons.save": "Spara",
   "buttons.shape": "Form",

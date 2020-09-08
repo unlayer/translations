@@ -1,4 +1,5 @@
 {
+  "buttons.add_column": "إضافة عمود",
   "buttons.add_content": "إضافة محتوى",
   "buttons.add_display_condition": "إضافة حالة عرض",
   "buttons.add_field": "إضافة حقل",
@@ -30,6 +31,7 @@
   "buttons.mobile": "الهاتف المحمول",
   "buttons.more_options": "المزيد من الخيارات",
   "buttons.open": "فتح",
+  "buttons.remove_column": "إزالة عمود",
   "buttons.resize": "تغيير الحجم",
   "buttons.save": "حفظ",
   "buttons.shape": "شكل",

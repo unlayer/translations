@@ -1,4 +1,5 @@
 {
+  "buttons.add_column": "Spalte hinzufügen",
   "buttons.add_content": "Inhalt hinzufügen",
   "buttons.add_display_condition": "Anzeigebedingung hinzufügen",
   "buttons.add_field": "Feld hinzufügen",
@@ -30,6 +31,7 @@
   "buttons.mobile": "Handy",
   "buttons.more_options": "Weitere Optionen",
   "buttons.open": "Öffnen",
+  "buttons.remove_column": "Spalte entfernen",
   "buttons.resize": "Größe anpassen",
   "buttons.save": "Speichern",
   "buttons.shape": "Form",

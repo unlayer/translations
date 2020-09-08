@@ -1,4 +1,5 @@
 {
+  "buttons.add_column": "행 추가",
   "buttons.add_content": "컨텐츠 추가",
   "buttons.add_display_condition": "디스플레이 조건 추가",
   "buttons.add_field": "필드 추가",
@@ -30,6 +31,7 @@
   "buttons.mobile": "모바일",
   "buttons.more_options": "옵션 확장",
   "buttons.open": "열기",
+  "buttons.remove_column": "행 제거",
   "buttons.resize": "크기 조정",
   "buttons.save": "저장",
   "buttons.shape": "모양",
