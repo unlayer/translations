@@ -1,4 +1,5 @@
 {
+  "buttons.add_column": "Kolon Ekle",
   "buttons.add_content": "İçerik ekle",
   "buttons.add_display_condition": "Görüntü Koşulu Ekle",
   "buttons.add_field": "Alan Ekle",
@@ -30,6 +31,7 @@
   "buttons.mobile": "Mobil",
   "buttons.more_options": "Diğer Seçenekler",
   "buttons.open": "Aç",
+  "buttons.remove_column": "Kolonu Kaldır",
   "buttons.resize": "Yeniden Boyutlandır",
   "buttons.save": "Kaydet",
   "buttons.shape": "Şekil",

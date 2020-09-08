@@ -1,4 +1,5 @@
 {
+  "buttons.add_column": "Добавить столбец",
   "buttons.add_content": "Добавить контент",
   "buttons.add_display_condition": "Добавить условие отображения",
   "buttons.add_field": "Добавить поле",
@@ -30,6 +31,7 @@
   "buttons.mobile": "Мобильный телефон",
   "buttons.more_options": "Еще параметры",
   "buttons.open": "Открыть",
+  "buttons.remove_column": "Удалить столбец",
   "buttons.resize": "Изменить размер",
   "buttons.save": "Сохранить",
   "buttons.shape": "Форма",

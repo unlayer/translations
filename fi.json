@@ -1,4 +1,5 @@
 {
+  "buttons.add_column": "Lisää sarake",
   "buttons.add_content": "Lisää sisältöä",
   "buttons.add_display_condition": "Lisää näyttämisen ehto",
   "buttons.add_field": "Lisää kenttä",
@@ -30,6 +31,7 @@
   "buttons.mobile": "Mobiili-esikatselu",
   "buttons.more_options": "Lisää vaihtoehtoja",
   "buttons.open": "Avaa",
+  "buttons.remove_column": "Poista sarake",
   "buttons.resize": "Muuta kokoa",
   "buttons.save": "Tallenna",
   "buttons.shape": "Muoto",

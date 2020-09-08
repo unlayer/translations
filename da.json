@@ -1,4 +1,5 @@
 {
+  "buttons.add_column": "Tilføj kolonne",
   "buttons.add_content": "Tilføj indhold",
   "buttons.add_display_condition": "Tilføj Vis Betingelse",
   "buttons.add_field": "Tilføj felt",
@@ -30,6 +31,7 @@
   "buttons.mobile": "Mobil",
   "buttons.more_options": "Flere indstillinger",
   "buttons.open": "Åben",
+  "buttons.remove_column": "Fjern kolonne",
   "buttons.resize": "Tilpas størrelse",
   "buttons.save": "Gem",
   "buttons.shape": "Form",

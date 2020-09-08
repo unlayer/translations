@@ -1,4 +1,5 @@
 {
+  "buttons.add_column": "新增欄位",
   "buttons.add_content": "增加內容",
   "buttons.add_display_condition": "新增顯示條件",
   "buttons.add_field": "增加欄位",
@@ -30,6 +31,7 @@
   "buttons.mobile": "行動裝置",
   "buttons.more_options": "更多選項",
   "buttons.open": "開啟",
+  "buttons.remove_column": "移除欄位",
   "buttons.resize": "調整大小",
   "buttons.save": "儲存",
   "buttons.shape": "圖形",
