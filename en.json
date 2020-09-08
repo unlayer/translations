@@ -1,5 +1,6 @@
 {
   "buttons.add_content": "Add Content",
+  "buttons.add_column": "Add Column",
   "buttons.add_display_condition": "Add Display Condition",
   "buttons.add_field": "Add Field",
   "buttons.add_new_field": "Add New Field",
@@ -30,6 +31,7 @@
   "buttons.mobile": "Mobile",
   "buttons.more_options": "More Options",
   "buttons.open": "Open",
+  "buttons.remove_column": "Remove Column",
   "buttons.resize": "Resize",
   "buttons.save": "Save",
   "buttons.shape": "Shape",
