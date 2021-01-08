@@ -81,6 +81,7 @@
   "editor.colors.label": "Colori",
   "editor.columns_background.label": "Sfondo Colonne",
   "editor.container_padding.label": "Spaziatura Contenuto",
+  "editor.content_alignment.label": "Allineamento contenuto",
   "editor.content_background_color.label": "Colore di sfondo dei contenuti",
   "editor.content_width.label": "Larghezza Contenuto",
   "editor.digits_color.label": "Colore cifre",

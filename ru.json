@@ -81,6 +81,7 @@
   "editor.colors.label": "Цвета",
   "editor.columns_background.label": "Фон столбцов",
   "editor.container_padding.label": "Контейнерная обивка",
+  "editor.content_alignment.label": "Выравнивание содержимого",
   "editor.content_background_color.label": "Цвет фона контента",
   "editor.content_width.label": "Ширина содержимого",
   "editor.digits_color.label": "Цвет цифр",

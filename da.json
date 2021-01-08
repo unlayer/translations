@@ -81,6 +81,7 @@
   "editor.colors.label": "Farver",
   "editor.columns_background.label": "Rækkefarve",
   "editor.container_padding.label": "Margen",
+  "editor.content_alignment.label": "Indholdsjustering",
   "editor.content_background_color.label": "Baggrundsfarve for indhold",
   "editor.content_width.label": "Indholdsbredde",
   "editor.digits_color.label": "Farve på cifre",

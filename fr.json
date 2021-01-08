@@ -81,6 +81,7 @@
   "editor.colors.label": "Couleurs",
   "editor.columns_background.label": "Fond des colonnes",
   "editor.container_padding.label": "Marges internes",
+  "editor.content_alignment.label": "Alignement du contenu",
   "editor.content_background_color.label": "Couleur d'arrière-plan pour les contenus",
   "editor.content_width.label": "Largeur du contenu",
   "editor.digits_color.label": "Couleur des chiffres",

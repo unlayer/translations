@@ -81,6 +81,7 @@
   "editor.colors.label": "Kleuren",
   "editor.columns_background.label": "Kolommen achtergrond",
   "editor.container_padding.label": "Container ruimte",
+  "editor.content_alignment.label": "Uitlijning van inhoud",
   "editor.content_background_color.label": "Achtergrondkleur inhoud",
   "editor.content_width.label": "Inhoud breedte",
   "editor.digits_color.label": "Cijfers Kleur",

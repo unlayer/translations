@@ -81,6 +81,7 @@
   "editor.colors.label": "Farben",
   "editor.columns_background.label": "Spaltenhintergrund",
   "editor.container_padding.label": "Container-Füllung",
+  "editor.content_alignment.label": "Inhaltsanpassung",
   "editor.content_background_color.label": "Inhaltshintergrundfarbe",
   "editor.content_width.label": "Breite des Inhalts",
   "editor.digits_color.label": "Ziffern Farbe",

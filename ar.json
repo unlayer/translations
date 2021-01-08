@@ -81,6 +81,7 @@
   "editor.colors.label": "ألوان",
   "editor.columns_background.label": "خلفية الأعمدة",
   "editor.container_padding.label": "تذييل الحاوية",
+  "editor.content_alignment.label": "محاذاة المحتوى",
   "editor.content_background_color.label": "لون خلفية المحتوى",
   "editor.content_width.label": "عرض المحتوى",
   "editor.digits_color.label": "لون الأرقام",
