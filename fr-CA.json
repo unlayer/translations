@@ -81,6 +81,7 @@
   "editor.colors.label": "Couleurs",
   "editor.columns_background.label": "Couleur d'arrière-plan du contenu",
   "editor.container_padding.label": "Remplissage",
+  "editor.content_alignment.label": "Alignement du contenu",
   "editor.content_background_color.label": "Couleur de l'arrière-plan du contenu",
   "editor.content_width.label": "Largeur du contenu",
   "editor.digits_color.label": "Couleur des chiffres",

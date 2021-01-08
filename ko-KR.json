@@ -81,6 +81,7 @@
   "editor.colors.label": "색상",
   "editor.columns_background.label": "분할 배경",
   "editor.container_padding.label": "컨텐츠 내부 여백",
+  "editor.content_alignment.label": "콘텐츠 정렬",
   "editor.content_background_color.label": "컨텐츠 배경 색상",
   "editor.content_width.label": "컨텐츠 너비",
   "editor.digits_color.label": "숫자 색상",

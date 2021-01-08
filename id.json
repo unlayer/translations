@@ -81,6 +81,7 @@
   "editor.colors.label": "Warna",
   "editor.columns_background.label": "Latar Kolom",
   "editor.container_padding.label": "Padding Kontainer",
+  "editor.content_alignment.label": "Penyelarasan Konten",
   "editor.content_background_color.label": "Warna Latar Konten",
   "editor.content_width.label": "Lebar Konten",
   "editor.digits_color.label": "Warna Digit",

@@ -81,6 +81,7 @@
   "editor.colors.label": "Färger",
   "editor.columns_background.label": "Radfärg",
   "editor.container_padding.label": "Elementutfyllnad",
+  "editor.content_alignment.label": "Innehållsjustering",
   "editor.content_background_color.label": "Bakgrundsfärg för innehåll",
   "editor.content_width.label": "Sidbredd",
   "editor.digits_color.label": "Siffrornas färg",

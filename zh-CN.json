@@ -81,6 +81,7 @@
   "editor.colors.label": "颜色",
   "editor.columns_background.label": "信件背景",
   "editor.container_padding.label": "内容边距",
+  "editor.content_alignment.label": "内容对齐",
   "editor.content_background_color.label": "内容背景颜色",
   "editor.content_width.label": "内容宽度",
   "editor.digits_color.label": "数字颜色",

@@ -81,6 +81,7 @@
   "editor.colors.label": "värit",
   "editor.columns_background.label": "Sarakkeiden tausta",
   "editor.container_padding.label": "Konttipehmuste",
+  "editor.content_alignment.label": "Sisällön kohdistaminen",
   "editor.content_background_color.label": "Sisällön taustaväri",
   "editor.content_width.label": "Sisällön leveys",
   "editor.digits_color.label": "Numeroiden väri",
