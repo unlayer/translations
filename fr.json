@@ -254,6 +254,7 @@
   "option_groups.all.title": "Tout",
   "option_groups.blank.title": "Vide",
   "option_groups.button.title": "Bouton",
+  "option_groups.button_options.title": "Options du bouton",
   "option_groups.colors.title": "Couleurs",
   "option_groups.columns.title": "Les colonnes",
   "option_groups.column_number.title": "Colonne {columnNumber}",

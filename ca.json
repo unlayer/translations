@@ -254,6 +254,7 @@
   "option_groups.all.title": "Totes",
   "option_groups.blank.title": "En blanc",
   "option_groups.button.title": "Botó",
+  "option_groups.button_options.title": "Opcions de botó",
   "option_groups.colors.title": "Colors",
   "option_groups.columns.title": "Columnes",
   "option_groups.column_number.title": "Columna {columnNumber}",

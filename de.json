@@ -254,6 +254,7 @@
   "option_groups.all.title": "Alle",
   "option_groups.blank.title": "Leer",
   "option_groups.button.title": "Schaltfläche",
+  "option_groups.button_options.title": "Schaltflächenoptionen",
   "option_groups.colors.title": "Farben",
   "option_groups.columns.title": "Spalten",
   "option_groups.column_number.title": "Spalte {columnNumber}",

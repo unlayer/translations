@@ -254,6 +254,7 @@
   "option_groups.all.title": "Semua",
   "option_groups.blank.title": "Kosong",
   "option_groups.button.title": "Tombol",
+  "option_groups.button_options.title": "Opsi Tombol",
   "option_groups.colors.title": "Warna",
   "option_groups.columns.title": "Kolom",
   "option_groups.column_number.title": "Kolom {columnNumber}",

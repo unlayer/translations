@@ -254,6 +254,7 @@
   "option_groups.all.title": "Vše",
   "option_groups.blank.title": "Prázdné",
   "option_groups.button.title": "Tlačítko",
+  "option_groups.button_options.title": "tlačítko Možnosti",
   "option_groups.colors.title": "Barvy",
   "option_groups.columns.title": "Sloupce",
   "option_groups.column_number.title": "Sloupec {columnNumber}",
