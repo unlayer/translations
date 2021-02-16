@@ -254,6 +254,7 @@
   "option_groups.all.title": "Tutte",
   "option_groups.blank.title": "Vuote",
   "option_groups.button.title": "Bottone",
+  "option_groups.button_options.title": "Opzioni pulsante",
   "option_groups.colors.title": "Colori",
   "option_groups.columns.title": "Colonne",
   "option_groups.column_number.title": "Colonna {columnNumber}",

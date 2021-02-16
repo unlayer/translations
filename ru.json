@@ -254,6 +254,7 @@
   "option_groups.all.title": "Все",
   "option_groups.blank.title": "Пусто",
   "option_groups.button.title": "Кнопка",
+  "option_groups.button_options.title": "Параметры кнопок",
   "option_groups.colors.title": "Цвета",
   "option_groups.columns.title": "Столбцы",
   "option_groups.column_number.title": "Столбец {columnNumber}",

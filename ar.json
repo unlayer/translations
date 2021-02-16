@@ -254,6 +254,7 @@
   "option_groups.all.title": "الكل",
   "option_groups.blank.title": "فارغ",
   "option_groups.button.title": "زر",
+  "option_groups.button_options.title": "خيارات الزر",
   "option_groups.colors.title": "ألوان",
   "option_groups.columns.title": "أعمدة",
   "option_groups.column_number.title": "العمود {columnNumber}",

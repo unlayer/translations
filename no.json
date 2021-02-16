@@ -254,6 +254,7 @@
   "option_groups.all.title": "Alle",
   "option_groups.blank.title": "Blank",
   "option_groups.button.title": "Knapp",
+  "option_groups.button_options.title": "Knappealternativer",
   "option_groups.colors.title": "Farger",
   "option_groups.columns.title": "Kolonner",
   "option_groups.column_number.title": "Kolonner {columnNumber}",

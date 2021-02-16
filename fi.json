@@ -254,6 +254,7 @@
   "option_groups.all.title": "Kaikki",
   "option_groups.blank.title": "Tyhjä",
   "option_groups.button.title": "Nappi",
+  "option_groups.button_options.title": "Painikkeen vaihtoehdot",
   "option_groups.colors.title": "Värit",
   "option_groups.columns.title": "Pylväät",
   "option_groups.column_number.title": "Sarake {columnNumber}",

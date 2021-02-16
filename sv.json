@@ -254,6 +254,7 @@
   "option_groups.all.title": "Alla",
   "option_groups.blank.title": "Tom",
   "option_groups.button.title": "Knapp",
+  "option_groups.button_options.title": "Knappalternativ",
   "option_groups.colors.title": "Färger",
   "option_groups.columns.title": "Kolumner",
   "option_groups.column_number.title": "Kolumn {columnNumber}",

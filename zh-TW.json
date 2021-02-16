@@ -254,6 +254,7 @@
   "option_groups.all.title": "全部",
   "option_groups.blank.title": "空白",
   "option_groups.button.title": "按鈕",
+  "option_groups.button_options.title": "按鈕選項",
   "option_groups.colors.title": "顏色",
   "option_groups.columns.title": "欄",
   "option_groups.column_number.title": "欄 {columnNumber}",

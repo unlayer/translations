@@ -254,6 +254,7 @@
   "option_groups.all.title": "Усе",
   "option_groups.blank.title": "Пусто",
   "option_groups.button.title": "Кнопка",
+  "option_groups.button_options.title": "Опції кнопки",
   "option_groups.colors.title": "Кольори",
   "option_groups.columns.title": "Стовпці",
   "option_groups.column_number.title": "Стовпець {columnNumber}",
