@@ -207,6 +207,7 @@
   "labels.category": "Categorie",
   "labels.color_picker": "Kleur kiezer",
   "labels.desktop_preview": "Desktop voorbeeld",
+  "labels.device_override": "Dit apparaat overschrijft waarden",
   "labels.display_conditions": "Weergavestaten",
   "labels.editor": "Editor",
   "labels.font": "Lettertype",

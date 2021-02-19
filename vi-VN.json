@@ -207,6 +207,7 @@
   "labels.category": "Danh mục",
   "labels.color_picker": "Chọn màu",
   "labels.desktop_preview": "Xem trước trên máy tính",
+  "labels.device_override": "Thiết bị này đang ghi đè các giá trị",
   "labels.display_conditions": "Điều kiện hiển thị",
   "labels.editor": "Trình chỉnh sửa",
   "labels.font": "Font",

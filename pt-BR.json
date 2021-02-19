@@ -207,6 +207,7 @@
   "labels.category": "Categoria",
   "labels.color_picker": "Seletor de Cor",
   "labels.desktop_preview": "Visualização de Área de Trabalho",
+  "labels.device_override": "Este dispositivo está anulando valores",
   "labels.display_conditions": "Condições de exibição",
   "labels.editor": "Editor",
   "labels.font": "Fonte",

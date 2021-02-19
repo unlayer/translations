@@ -207,6 +207,7 @@
   "labels.category": "类别",
   "labels.color_picker": "取色器",
   "labels.desktop_preview": "桌面版预览",
+  "labels.device_override": "设备正在重写各值",
   "labels.display_conditions": "显示条件",
   "labels.editor": "编辑器",
   "labels.font": "字体",

@@ -207,6 +207,7 @@
   "labels.category": "Kategori",
   "labels.color_picker": "Färgväljare",
   "labels.desktop_preview": "Förhandsvisning bordsdator",
+  "labels.device_override": "Den här enheten åsidosätter värden",
   "labels.display_conditions": "Displaytillstånd",
   "labels.editor": "Redigerare",
   "labels.font": "Font",

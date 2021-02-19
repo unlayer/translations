@@ -207,6 +207,7 @@
   "labels.category": "Catégorie",
   "labels.color_picker": "Choix de couleur",
   "labels.desktop_preview": "Aperçu de bureau",
+  "labels.device_override": "Ce dispositif outrepasse les valeurs",
   "labels.display_conditions": "Conditions d'affichage",
   "labels.editor": "Éditeur",
   "labels.font": "Police",

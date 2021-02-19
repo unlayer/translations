@@ -207,6 +207,7 @@
   "labels.category": "Kategoria",
   "labels.color_picker": "Paleta kolorów",
   "labels.desktop_preview": "Podgląd na komputerze",
+  "labels.device_override": "To urządzenie nadpisuje wartości",
   "labels.display_conditions": "Warunki wyświetlania",
   "labels.editor": "Edytor",
   "labels.font": "Czcionka",

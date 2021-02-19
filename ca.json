@@ -207,6 +207,7 @@
   "labels.category": "Categoria",
   "labels.color_picker": "Triar color",
   "labels.desktop_preview": "Vista prèvia per escriptori",
+  "labels.device_override": "Aquest dispositiu està anul·lant els valors",
   "labels.display_conditions": "Condicions de visualització",
   "labels.editor": "Editor",
   "labels.font": "Font",

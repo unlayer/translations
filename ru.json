@@ -207,6 +207,7 @@
   "labels.category": "Категория",
   "labels.color_picker": "Средство выбора цвета",
   "labels.desktop_preview": "Предварительный просмотр на ПК",
+  "labels.device_override": "Это устройство переопределяет значения",
   "labels.display_conditions": "Условия отображения",
   "labels.editor": "Редактор",
   "labels.font": "Шрифт",
