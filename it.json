@@ -207,6 +207,7 @@
   "labels.category": "Categoria",
   "labels.color_picker": "Selezione colori",
   "labels.desktop_preview": "Anteprima desktop",
+  "labels.device_override": "Questo dispositivo sta sovrascrivendo i valori",
   "labels.display_conditions": "Condizioni di visualizzazione",
   "labels.editor": "Editor",
   "labels.font": "Font",

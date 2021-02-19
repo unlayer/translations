@@ -207,6 +207,7 @@
   "labels.category": "Kategoria",
   "labels.color_picker": "Värin valitsin",
   "labels.desktop_preview": "Työpöydän esikatselu",
+  "labels.device_override": "Tämä laite ohittaa arvoja",
   "labels.display_conditions": "Näytä tilat",
   "labels.editor": "Editori",
   "labels.font": "Fontti",

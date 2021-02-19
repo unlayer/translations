@@ -207,6 +207,7 @@
   "labels.category": "Kategori",
   "labels.color_picker": "Farvevælger",
   "labels.desktop_preview": "PC Forhåndsvisning",
+  "labels.device_override": "Denne enhed overstyrer andre værdier",
   "labels.display_conditions": "Vis betingelser",
   "labels.editor": "Redigeringsværktøj",
   "labels.font": "Skrifttype",

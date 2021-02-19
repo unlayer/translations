@@ -207,6 +207,7 @@
   "labels.category": "Categoría",
   "labels.color_picker": "Selector de color",
   "labels.desktop_preview": "Vista previa escritorio",
+  "labels.device_override": "Este dispositivo está anulando valores",
   "labels.display_conditions": "Requisitos de pantalla",
   "labels.editor": "Editor",
   "labels.font": "Fuente",

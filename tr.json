@@ -207,6 +207,7 @@
   "labels.category": "Kategori",
   "labels.color_picker": "Renk Seçici",
   "labels.desktop_preview": "Masaüstü Önizleme",
+  "labels.device_override": "Bu cihaz, değerleri geçersiz kılıyor",
   "labels.display_conditions": "Görüntü Koşulları",
   "labels.editor": "Düzenleyici",
   "labels.font": "Yazı Tipi",

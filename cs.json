@@ -207,6 +207,7 @@
   "labels.category": "Kategorie",
   "labels.color_picker": "Výběr barvy",
   "labels.desktop_preview": "Náhled pro desktop",
+  "labels.device_override": "Toto zařízení přepisuje hodnoty",
   "labels.display_conditions": "Podmínky zobrazení",
   "labels.editor": "Editor",
   "labels.font": "Písmo",

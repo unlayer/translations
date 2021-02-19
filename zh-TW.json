@@ -207,6 +207,7 @@
   "labels.category": "類別",
   "labels.color_picker": "色彩選擇器",
   "labels.desktop_preview": "桌面預覽",
+  "labels.device_override": "此裝置正在覆寫數值",
   "labels.display_conditions": "顯示條件",
   "labels.editor": "編輯器",
   "labels.font": "字型",
