@@ -89,7 +89,7 @@
   "editor.digits_color.label": "Cor dos dígitos",
   "editor.digits_font.label": "Fonte dos dígitos",
   "editor.digits_font_size.label": "Tamanho da fonte dos dígitos",
-  "editor.do_not_stack_on_mobile.label": "Não empilhe no celular",
+  "editor.do_not_stack_on_mobile.label": "Não quebrar no telemóvel",
   "editor.end_time.label": "Hora final",
   "editor.fields.label": "Campos",
   "editor.font_family.label": "Familia Fonte",
