@@ -24,6 +24,7 @@
   "buttons.draw": "Piirrä",
   "buttons.drawing": "Piirros",
   "buttons.duplicate": "Monistaa",
+  "buttons.duplication_disabled_usage_limit": "Et voi monistaa tätä käyttörajoituksen takia",
   "buttons.filter": "Suodata",
   "buttons.frame": "Kehys",
   "buttons.history": "Historia",

@@ -24,6 +24,7 @@
   "buttons.draw": "Нарисовать",
   "buttons.drawing": "Рисунок",
   "buttons.duplicate": "Дублировать",
+  "buttons.duplication_disabled_usage_limit": "Нельзя удвоить это ввиду предела использования",
   "buttons.filter": "Фильтровать",
   "buttons.frame": "Рамка",
   "buttons.history": "История",

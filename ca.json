@@ -24,6 +24,7 @@
   "buttons.draw": "Dibuixar",
   "buttons.drawing": "Dibuixant",
   "buttons.duplicate": "Duplicar",
+  "buttons.duplication_disabled_usage_limit": "No podeu duplicar això a causa d'un límit d'ús",
   "buttons.filter": "Filtrar",
   "buttons.frame": "Marc",
   "buttons.history": "Historial",

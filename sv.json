@@ -24,6 +24,7 @@
   "buttons.draw": "Rita",
   "buttons.drawing": "Ritning",
   "buttons.duplicate": "Duplicera",
+  "buttons.duplication_disabled_usage_limit": "På grund av en förbrukningsgräns kan du inte duplicera detta.",
   "buttons.filter": "Filter",
   "buttons.frame": "Ram",
   "buttons.history": "Historik",

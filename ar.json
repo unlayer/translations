@@ -24,6 +24,7 @@
   "buttons.draw": "ارسم",
   "buttons.drawing": "رسم",
   "buttons.duplicate": "نسخ",
+  "buttons.duplication_disabled_usage_limit": "لا يمكنك تكرار هذا بسبب وجود حد للاستخدام",
   "buttons.filter": "عوامل التصفية",
   "buttons.frame": "إطار",
   "buttons.history": "السجل",
