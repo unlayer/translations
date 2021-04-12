@@ -24,6 +24,7 @@
   "buttons.draw": "Rysuj",
   "buttons.drawing": "Rysunek",
   "buttons.duplicate": "Zduplikuj",
+  "buttons.duplication_disabled_usage_limit": "Nie moższ tego zduplikować z powodu ograniczenia użytkowania.",
   "buttons.filter": "Filtr",
   "buttons.frame": "Ramka",
   "buttons.history": "Historia",

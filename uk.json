@@ -24,6 +24,7 @@
   "buttons.draw": "Малювати",
   "buttons.drawing": "Малюнок",
   "buttons.duplicate": "Дублювати",
+  "buttons.duplication_disabled_usage_limit": "Ви не можете дублювати це через обмеження використання",
   "buttons.filter": "Фільтрувати",
   "buttons.frame": "Рамка",
   "buttons.history": "Журнал",

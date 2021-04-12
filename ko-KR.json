@@ -24,6 +24,7 @@
   "buttons.draw": "그림",
   "buttons.drawing": "그리기",
   "buttons.duplicate": "복제",
+  "buttons.duplication_disabled_usage_limit": "사용량 제한으로 인해 복제할 수 없습니다.",
   "buttons.filter": "필터",
   "buttons.frame": "프레임",
   "buttons.history": "기록",

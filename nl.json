@@ -24,6 +24,7 @@
   "buttons.draw": "Teken",
   "buttons.drawing": "Tekening",
   "buttons.duplicate": "Dupliceren",
+  "buttons.duplication_disabled_usage_limit": "Je kan dit niet dupliceren vanwege een gebruikslimiet",
   "buttons.filter": "Filter",
   "buttons.frame": "Kader",
   "buttons.history": "Geschiedenis",

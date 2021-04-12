@@ -24,6 +24,7 @@
   "buttons.draw": "Kreslit",
   "buttons.drawing": "Kresba",
   "buttons.duplicate": "Duplikovat",
+  "buttons.duplication_disabled_usage_limit": "Tuto položku nelze duplikovat z důvodu omezení použití",
   "buttons.filter": "Filtr",
   "buttons.frame": "Rámeček",
   "buttons.history": "Historie",

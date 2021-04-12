@@ -24,6 +24,7 @@
   "buttons.draw": "Vẽ",
   "buttons.drawing": "Đang vẽ",
   "buttons.duplicate": "Nhân bản",
+  "buttons.duplication_disabled_usage_limit": "Bạn không thể tạo bản sao do có giới hạn sử dụng",
   "buttons.filter": "Bộ lọc",
   "buttons.frame": "Khung",
   "buttons.history": "Lịch sử",

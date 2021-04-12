@@ -24,6 +24,7 @@
   "buttons.draw": "Tegn",
   "buttons.drawing": "Tegning",
   "buttons.duplicate": "Dubliker",
+  "buttons.duplication_disabled_usage_limit": "Du kan ikke duplikere dette på grund af en brugsgrænse",
   "buttons.filter": "Filtrer",
   "buttons.frame": "Ramme",
   "buttons.history": "Historie",

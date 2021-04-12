@@ -24,6 +24,7 @@
   "buttons.draw": "Çiz",
   "buttons.drawing": "Çizim",
   "buttons.duplicate": "Çoğalt",
+  "buttons.duplication_disabled_usage_limit": "Bir kullanım sınırı nedeniyle bunu çoğaltamazsınız",
   "buttons.filter": "Filtrele",
   "buttons.frame": "Çerçeve",
   "buttons.history": "Geçmiş",

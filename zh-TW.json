@@ -24,6 +24,7 @@
   "buttons.draw": "繪製",
   "buttons.drawing": "繪圖",
   "buttons.duplicate": "複製",
+  "buttons.duplication_disabled_usage_limit": "由於使用限制，您無法複製此項目",
   "buttons.filter": "濾鏡",
   "buttons.frame": "畫框",
   "buttons.history": "記錄",

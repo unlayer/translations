@@ -24,6 +24,7 @@
   "buttons.draw": "Gambar",
   "buttons.drawing": "Gambar",
   "buttons.duplicate": "Duplikat",
+  "buttons.duplication_disabled_usage_limit": "Anda tidak dapat menduplikasi ini karena batas penggunaan",
   "buttons.filter": "Filter",
   "buttons.frame": "Frame",
   "buttons.history": "Riwayat",

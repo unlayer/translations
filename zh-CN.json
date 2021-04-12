@@ -24,6 +24,7 @@
   "buttons.draw": "绘图",
   "buttons.drawing": "绘图",
   "buttons.duplicate": "复制",
+  "buttons.duplication_disabled_usage_limit": "由于使用限制，您无法复制这个",
   "buttons.filter": "筛选器",
   "buttons.frame": "框架",
   "buttons.history": "历史",
