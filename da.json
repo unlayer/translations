@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Knapmuligheder",
   "option_groups.colors.title": "Farver",
   "option_groups.columns.title": "Kolonner",
-  "option_groups.column_number.title": "Kolonne {columnNumber}",
+  "option_groups.column_number.title": "Kolonne {number}",
   "option_groups.column_properties.title": "Kolonneegenskaber",
   "option_groups.countdown.title": "Nedtælling",
   "option_groups.default.title": "Generelt",

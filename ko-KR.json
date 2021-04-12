@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "버튼 옵션",
   "option_groups.colors.title": "색상",
   "option_groups.columns.title": "영역 분할",
-  "option_groups.column_number.title": "분할 영역 {columnNumber}",
+  "option_groups.column_number.title": "분할 영역 {number}",
   "option_groups.column_properties.title": "분할 영역별 속성",
   "option_groups.countdown.title": "카운트다운",
   "option_groups.default.title": "일반",

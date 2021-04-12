@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Опції кнопки",
   "option_groups.colors.title": "Кольори",
   "option_groups.columns.title": "Стовпці",
-  "option_groups.column_number.title": "Стовпець {columnNumber}",
+  "option_groups.column_number.title": "Стовпець {number}",
   "option_groups.column_properties.title": "Властивості стовпця",
   "option_groups.countdown.title": "Відлік",
   "option_groups.default.title": "Загальне",

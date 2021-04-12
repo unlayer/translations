@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Options du bouton",
   "option_groups.colors.title": "Couleurs",
   "option_groups.columns.title": "Les colonnes",
-  "option_groups.column_number.title": "Colonne {columnNumber}",
+  "option_groups.column_number.title": "Colonne {number}",
   "option_groups.column_properties.title": "Propriétés de la colonne",
   "option_groups.countdown.title": "Compte à rebours",
   "option_groups.default.title": "Général",

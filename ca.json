@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Opcions de botó",
   "option_groups.colors.title": "Colors",
   "option_groups.columns.title": "Columnes",
-  "option_groups.column_number.title": "Columna {columnNumber}",
+  "option_groups.column_number.title": "Columna {number}",
   "option_groups.column_properties.title": "Propietats de la columna",
   "option_groups.countdown.title": "Compte enrere",
   "option_groups.default.title": "General",

@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "خيارات الزر",
   "option_groups.colors.title": "ألوان",
   "option_groups.columns.title": "أعمدة",
-  "option_groups.column_number.title": "العمود {columnNumber}",
+  "option_groups.column_number.title": "العمود {number}",
   "option_groups.column_properties.title": "خصائص العمود",
   "option_groups.countdown.title": "العد التنازلي",
   "option_groups.default.title": "عام",

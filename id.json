@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Opsi Tombol",
   "option_groups.colors.title": "Warna",
   "option_groups.columns.title": "Kolom",
-  "option_groups.column_number.title": "Kolom {columnNumber}",
+  "option_groups.column_number.title": "Kolom {number}",
   "option_groups.column_properties.title": "Pengaturan Kolom",
   "option_groups.countdown.title": "Hitung Mundur",
   "option_groups.default.title": "Umum",

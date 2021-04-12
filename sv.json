@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Knappalternativ",
   "option_groups.colors.title": "Färger",
   "option_groups.columns.title": "Kolumner",
-  "option_groups.column_number.title": "Kolumn {columnNumber}",
+  "option_groups.column_number.title": "Kolumn {number}",
   "option_groups.column_properties.title": "Kolumnegenskaper",
   "option_groups.countdown.title": "Nedräkning",
   "option_groups.default.title": "Allmänt",

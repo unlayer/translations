@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Opcje przycisku",
   "option_groups.colors.title": "Kolory",
   "option_groups.columns.title": "Kolumny",
-  "option_groups.column_number.title": "Kolumna {columnNumber}",
+  "option_groups.column_number.title": "Kolumna {number}",
   "option_groups.column_properties.title": "Właściwości kolumny",
   "option_groups.countdown.title": "Odliczanie",
   "option_groups.default.title": "Ogólne",

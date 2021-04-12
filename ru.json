@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Параметры кнопок",
   "option_groups.colors.title": "Цвета",
   "option_groups.columns.title": "Столбцы",
-  "option_groups.column_number.title": "Столбец {columnNumber}",
+  "option_groups.column_number.title": "Столбец {number}",
   "option_groups.column_properties.title": "Свойства столбцов",
   "option_groups.countdown.title": "Обратный отсчет",
   "option_groups.default.title": "Общее",

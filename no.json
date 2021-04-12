@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Knappealternativer",
   "option_groups.colors.title": "Farger",
   "option_groups.columns.title": "Kolonner",
-  "option_groups.column_number.title": "Kolonner {columnNumber}",
+  "option_groups.column_number.title": "Kolonner {number}",
   "option_groups.column_properties.title": "Egenskaper for kolonne",
   "option_groups.countdown.title": "Nedtelling",
   "option_groups.default.title": "Generelt",

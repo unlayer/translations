@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "tlačítko Možnosti",
   "option_groups.colors.title": "Barvy",
   "option_groups.columns.title": "Sloupce",
-  "option_groups.column_number.title": "Sloupec {columnNumber}",
+  "option_groups.column_number.title": "Sloupec {number}",
   "option_groups.column_properties.title": "Vlastnosti sloupce",
   "option_groups.countdown.title": "Odpočítávání",
   "option_groups.default.title": "Obecné",

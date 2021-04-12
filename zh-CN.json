@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "按钮选项",
   "option_groups.colors.title": "颜色",
   "option_groups.columns.title": "列",
-  "option_groups.column_number.title": "列 {columnNumber}",
+  "option_groups.column_number.title": "列 {number}",
   "option_groups.column_properties.title": "列属性",
   "option_groups.countdown.title": "倒计时",
   "option_groups.default.title": "一般",

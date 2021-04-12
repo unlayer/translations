@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Schaltflächenoptionen",
   "option_groups.colors.title": "Farben",
   "option_groups.columns.title": "Spalten",
-  "option_groups.column_number.title": "Spalte {columnNumber}",
+  "option_groups.column_number.title": "Spalte {number}",
   "option_groups.column_properties.title": "Spalteneigenschaften",
   "option_groups.countdown.title": "Countdown",
   "option_groups.default.title": "Allgemein",

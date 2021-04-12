@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Buton Seçenekleri",
   "option_groups.colors.title": "Renkler",
   "option_groups.columns.title": "Sütunlar",
-  "option_groups.column_number.title": "Sütun {columnNumber}",
+  "option_groups.column_number.title": "Sütun {number}",
   "option_groups.column_properties.title": "Sütun Özellikleri",
   "option_groups.countdown.title": "Geri Sayım",
   "option_groups.default.title": "Genel",

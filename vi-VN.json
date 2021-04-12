@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Tùy chọn về Nút",
   "option_groups.colors.title": "Màu sắc",
   "option_groups.columns.title": "Cột",
-  "option_groups.column_number.title": "Cột {columnNumber}",
+  "option_groups.column_number.title": "Cột {number}",
   "option_groups.column_properties.title": "Thuộc tính cột",
   "option_groups.countdown.title": "Đếm ngược",
   "option_groups.default.title": "Cài đặt chung",

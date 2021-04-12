@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Painikkeen vaihtoehdot",
   "option_groups.colors.title": "Värit",
   "option_groups.columns.title": "Pylväät",
-  "option_groups.column_number.title": "Sarake {columnNumber}",
+  "option_groups.column_number.title": "Sarake {number}",
   "option_groups.column_properties.title": "Sarakkeen ominaisuudet",
   "option_groups.countdown.title": "Laskuri",
   "option_groups.default.title": "Yleinen",

@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Knopopties",
   "option_groups.colors.title": "Kleuren",
   "option_groups.columns.title": "Kolommen",
-  "option_groups.column_number.title": "Kolom {columnNumber}",
+  "option_groups.column_number.title": "Kolom {number}",
   "option_groups.column_properties.title": "Kolomeigenschappen",
   "option_groups.countdown.title": "Aftellen",
   "option_groups.default.title": "Algemeen",

@@ -240,7 +240,7 @@
   "option_groups.button.title": "Nupp",
   "option_groups.colors.title": "Värvid",
   "option_groups.columns.title": "Veerud",
-  "option_groups.column_number.title": "Veerg {columnNumber}",
+  "option_groups.column_number.title": "Veerg {number}",
   "option_groups.column_properties.title": "Veeru omadused",
   "option_groups.countdown.title": "Ajaloendus",
   "option_groups.default.title": "Üldine",

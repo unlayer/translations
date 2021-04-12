@@ -258,7 +258,7 @@
   "option_groups.button_options.title": "Opzioni pulsante",
   "option_groups.colors.title": "Colori",
   "option_groups.columns.title": "Colonne",
-  "option_groups.column_number.title": "Colonna {columnNumber}",
+  "option_groups.column_number.title": "Colonna {number}",
   "option_groups.column_properties.title": "Proprietà della colonna",
   "option_groups.countdown.title": "Conto alla rovescia",
   "option_groups.default.title": "Generale",
