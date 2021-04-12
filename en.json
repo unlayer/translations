@@ -24,6 +24,7 @@
   "buttons.draw": "Draw",
   "buttons.drawing": "Drawing",
   "buttons.duplicate": "Duplicate",
+  "buttons.duplication_disabled_usage_limit": "You cannot duplicate this due to a usage limit",
   "buttons.filter": "Filter",
   "buttons.frame": "Frame",
   "buttons.history": "History",
