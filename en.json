@@ -173,6 +173,7 @@
   "editor.mobile.description": "You are currently editing for Mobile devices. Switch to Desktop for all styling options.",
   "editor.padding.label": "Padding",
   "editor.placeholder.text": "No content here. Drag content from right.",
+  "editor.placeholder.text.left": "No content here. Drag content from left.",
   "editor.play_icon_color.label": "Play Icon Color",
   "editor.play_icon_size.label": "Play Icon Size",
   "editor.play_icon_type.label": "Play Icon Type",
