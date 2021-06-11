@@ -173,6 +173,7 @@
   "editor.mobile.description": "Edytujesz teraz w trybie na urządzenia mobilne. Przełącz na tryb na komputer, aby mieć dostęp do wszystkich opcji projektowania.",
   "editor.padding.label": "Dopełnienie",
   "editor.placeholder.text": "Brak zawartości. Przeciągnij zawartość z prawej strony.",
+  "editor.placeholder.text.left": "Brak tu treści. Przeciągnij treść z lewej strony.",
   "editor.play_icon_color.label": "Kolor ikony odtwarzania",
   "editor.play_icon_size.label": "Rozmiar ikony odtwarzania",
   "editor.play_icon_type.label": "Rodzaj ikony odtwarzania",

@@ -173,6 +173,7 @@
   "editor.mobile.description": "Du redigerar för närvarande för Mobiler. Byt till Dator för alla stilalternativ.",
   "editor.padding.label": "Utfyllnad",
   "editor.placeholder.text": "Inget innehåll här. Dra innehåll från höger.",
+  "editor.placeholder.text.left": "Inget innehåll här. Dra innehåll från vänster.",
   "editor.play_icon_color.label": "Färg för play-ikon",
   "editor.play_icon_size.label": "Storlek för play-icon",
   "editor.play_icon_type.label": "Typ för play-ikon",

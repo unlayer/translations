@@ -173,6 +173,7 @@
   "editor.mobile.description": "Du redigerer nå for mobile enheter. Bytt til skrivebord for alle stilalternativer.",
   "editor.padding.label": "Utfylling",
   "editor.placeholder.text": "Ikke noe innhold her. Dra innhold fra høyre.",
+  "editor.placeholder.text.left": "Innhold mangler her. Dra innhold fra venstre.",
   "editor.play_icon_color.label": "Farge på Spille av-ikonet",
   "editor.play_icon_size.label": "Størrelse på Spille av-ikonet",
   "editor.play_icon_type.label": "Spille av-ikontype",

@@ -173,6 +173,7 @@
   "editor.mobile.description": "Editoit tällä hetkellä mobiililaitteita varten. Vaihda työpöytätilaan nähdäksesi kaikki muotoiluvaihtoehdot.",
   "editor.padding.label": "Täyte",
   "editor.placeholder.text": "Ei sisältöä täällä. Vedä sisältöä oikealta.",
+  "editor.placeholder.text.left": "Tässä ei sisältöä. Vedä sisältöä vasemmalta.",
   "editor.play_icon_color.label": "Toista kuvakkeen väri",
   "editor.play_icon_size.label": "Toista kuvakkeen koko",
   "editor.play_icon_type.label": "Toista kuvakkeen tyyppi",

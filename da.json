@@ -173,6 +173,7 @@
   "editor.mobile.description": "Du redigerer lige nu for mobilenheder. Skift til Computer for alle designmuligheder.",
   "editor.padding.label": "Margen",
   "editor.placeholder.text": "Der er ikke noget indhold. Træk noget ind fra højre side.",
+  "editor.placeholder.text.left": "Intet indhold her. Træk indhold fra venstre.",
   "editor.play_icon_color.label": "Farve på Play-ikon",
   "editor.play_icon_size.label": "Størrelse på Play-ikon",
   "editor.play_icon_type.label": "Play-ikontype",

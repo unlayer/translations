@@ -173,6 +173,7 @@
   "editor.mobile.description": "Právě provádíte úpravy pro mobilní zařízení. Přepněte na Desktop pro všechny možnosti stylování.",
   "editor.padding.label": "Odsazení",
   "editor.placeholder.text": "Zde není žádný obsah. Přetáhněte obsah zprava.",
+  "editor.placeholder.text.left": "Není zde žádný obsah. Přetáhněte obsah zleva.",
   "editor.play_icon_color.label": "Barva ikony Přehrát",
   "editor.play_icon_size.label": "Velikost ikony Přehrát",
   "editor.play_icon_type.label": "Typ ikony Přehrát",

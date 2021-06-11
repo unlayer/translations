@@ -173,6 +173,7 @@
   "editor.mobile.description": "No momento, você está editando para dispositivos móveis. Troque para a versão desktop para acessar todas as opções de estilo.",
   "editor.padding.label": "Espaçamento",
   "editor.placeholder.text": "Nenhum conteúdo aqui. Arraste o conteúdo da direita.",
+  "editor.placeholder.text.left": "Nenhum conteúdo aqui. Arraste o conteúdo da esquerda.",
   "editor.play_icon_color.label": "Cor do ícone de reprodução",
   "editor.play_icon_size.label": "Tamanho do ícone de reprodução",
   "editor.play_icon_type.label": "Tipo de ícone de reprodução",

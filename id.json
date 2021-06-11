@@ -173,6 +173,7 @@
   "editor.mobile.description": "Saat ini Anda sedang menyunting tampilan seluler. Pindah ke Desktop untuk menampilkan semua opsi.",
   "editor.padding.label": "Padding",
   "editor.placeholder.text": "Tidak ada konten disini. Seret konten dari panel kanan.",
+  "editor.placeholder.text.left": "Tidak ada konten di sini. Seret konten dari kiri.",
   "editor.play_icon_color.label": "Warna Ikon Putar",
   "editor.play_icon_size.label": "Ukuran Ikon Putar",
   "editor.play_icon_type.label": "Tipe Ikon Putar",

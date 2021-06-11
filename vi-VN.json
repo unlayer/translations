@@ -173,6 +173,7 @@
   "editor.mobile.description": "Bạn hiện đang chỉnh sửa cho thiết bị Di động. Chuyển sang Máy tính để các tùy chỉnh hiển thị chính xác.",
   "editor.padding.label": "Khoảng trống giữa nội dung",
   "editor.placeholder.text": "Chưa có nội dung, hãy kéo các khối tại tab bên phải",
+  "editor.placeholder.text.left": "Không có nội dung ở đây. Hãy kéo nội dung từ bên trái.",
   "editor.play_icon_color.label": "Màu Icon Phát",
   "editor.play_icon_size.label": "Kích thước Icon Phát",
   "editor.play_icon_type.label": "Kiểu Icon Phát",

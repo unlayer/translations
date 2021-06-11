@@ -173,6 +173,7 @@
   "editor.mobile.description": "Vous éditez actuellement pour les appareils mobiles. Passez à l'option Bureau pour toutes les options de style.",
   "editor.padding.label": "Marges internes",
   "editor.placeholder.text": "Pas de contenu ici. Faites glisser le contenu de droite.",
+  "editor.placeholder.text.left": "Aucun contenu ici. Faites glisser le contenu de la gauche.",
   "editor.play_icon_color.label": "Couleur de l'icône de lecture",
   "editor.play_icon_size.label": "Taille de l'icône de lecture",
   "editor.play_icon_type.label": "Type d'icône de lecture",

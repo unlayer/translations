@@ -173,6 +173,7 @@
   "editor.mobile.description": "In questo momento stai effettuando modifiche per dispositivi mobili. Passa a Desktop per tutte le opzioni di stile.",
   "editor.padding.label": "Spaziatura",
   "editor.placeholder.text": "Nessun contenuto presente. Rilascia del contenuto da destra.",
+  "editor.placeholder.text.left": "Nessun contenuto presente. Trascina il contenuto da sinistra.",
   "editor.play_icon_color.label": "Colore Icone Riproduci",
   "editor.play_icon_size.label": "Dimensioni Icona Riproduci",
   "editor.play_icon_type.label": "Tipo Icona Riproduci",

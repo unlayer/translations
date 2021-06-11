@@ -173,6 +173,7 @@
   "editor.mobile.description": "أنت تُحرِر الآن من أجل الأجهزة الجوالة. تحول إلى سطح المكتب من أجل كل خيارات التصميم.",
   "editor.padding.label": "تذييل",
   "editor.placeholder.text": "لا يوجد محتوى هنا. اسحب محتوى من اليمين.",
+  "editor.placeholder.text.left": "لا يوجد محتوى هنا. اسحب المحتوى من اليسار.",
   "editor.play_icon_color.label": "لون أيقونة التشغيل",
   "editor.play_icon_size.label": "حجم أيقونة التشغيل",
   "editor.play_icon_type.label": "نوع أيقونة التشغيل",

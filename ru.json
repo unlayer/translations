@@ -173,6 +173,7 @@
   "editor.mobile.description": "Сейчас вы в редакторе для мобильных устройств. Переключитесь на десктоп, чтобы посмотреть все варианты стилей.",
   "editor.padding.label": "Поля",
   "editor.placeholder.text": "Здесь нет контента. Перетащите контент справа.",
+  "editor.placeholder.text.left": "Контент отсутствует. Перетащите контент слева.",
   "editor.play_icon_color.label": "Цвет иконки воспроизведения",
   "editor.play_icon_size.label": "Размер иконки воспроизведения",
   "editor.play_icon_type.label": "Тип иконки воспроизведения",

@@ -173,6 +173,7 @@
   "editor.mobile.description": "Vous modifiez actuellement les appareils mobiles. Basculez vers le bureau pour toutes les options de style.",
   "editor.padding.label": "Remplissage",
   "editor.placeholder.text": "Aucun contenu. Faites-en glisser depuis le panneau « Contenu ».",
+  "editor.placeholder.text.left": "Pas de contenu ici. Faites glisser le contenu de la gauche.",
   "editor.play_icon_color.label": "Couleur de l'icône de lecture",
   "editor.play_icon_size.label": "Taille de l'icône de lecture",
   "editor.play_icon_type.label": "Type de l'icône de lecture",
