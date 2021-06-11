@@ -173,6 +173,7 @@
   "editor.mobile.description": "Sie editieren im Moment für Mobilgeräte. Wechseln Sie zu Desktop, um Zugang zu allen Gestaltungsoptionen zu erhalten.",
   "editor.padding.label": "Einbettung",
   "editor.placeholder.text": "Hier ist kein Inhalt. Ziehen Sie Inhalt von Rechts hinein.",
+  "editor.placeholder.text.left": "Kein Inhalt hier. Ziehen Sie den Inhalt von links.",
   "editor.play_icon_color.label": "Farbe des Play-Icons",
   "editor.play_icon_size.label": "Größe des Play-Icons",
   "editor.play_icon_type.label": "Typ des Play-Icons",

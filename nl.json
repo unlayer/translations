@@ -173,6 +173,7 @@
   "editor.mobile.description": "Je bent momenteel aan het bewerken voor mobiele apparaten. Wissel naar 'Desktop' voor alle stylingopties.",
   "editor.padding.label": "Ruimte",
   "editor.placeholder.text": "Geen inhoud hier. Sleep inhoud van rechts.",
+  "editor.placeholder.text.left": "Geen content hier. Versleep content van links.",
   "editor.play_icon_color.label": "Kleur play icoon",
   "editor.play_icon_size.label": "Grootte play icoon",
   "editor.play_icon_type.label": "Type play icoon",

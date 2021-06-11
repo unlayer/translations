@@ -173,6 +173,7 @@
   "editor.mobile.description": "Esteu editant per mòbils. Canvieu a escriptori per veure totes les opcions d'estil.",
   "editor.padding.label": "Marge intern",
   "editor.placeholder.text": "Contigut buit. Arrossegueu contingut des de la dreta.",
+  "editor.placeholder.text.left": "Aquí no hi ha cap contingut. Arrossega el contingut des de l'esquerra.",
   "editor.play_icon_color.label": "Color de la icona de Play",
   "editor.play_icon_size.label": "Mida de la icona de Play",
   "editor.play_icon_type.label": "Tipus de la icona de Play",

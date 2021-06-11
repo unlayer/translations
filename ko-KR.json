@@ -173,6 +173,7 @@
   "editor.mobile.description": "현재 모바일 기기 모드로 편집 중입니다. 모든 스타일 옵션을 보려면 데스크톱 모드로 전환하세요.",
   "editor.padding.label": "Padding",
   "editor.placeholder.text": "우측에서 컨텐츠를 드래그하여 삽입할 수 있습니다.",
+  "editor.placeholder.text.left": "여기에 내용이 없습니다. 왼쪽에서 내용을 드래그하세요.",
   "editor.play_icon_color.label": "재생 아이콘 색상",
   "editor.play_icon_size.label": "재생 아이콘 크기",
   "editor.play_icon_type.label": "재생 아이콘 타입",

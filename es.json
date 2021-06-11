@@ -173,6 +173,7 @@
   "editor.mobile.description": "En estos momentos estás editando para dispositivos móviles. Cambia a la versión de escritorio para acceder a todas las opciones de diseño.",
   "editor.padding.label": "Relleno",
   "editor.placeholder.text": "Sin contenido aquí. Arrastre el contenido desde la derecha.",
+  "editor.placeholder.text.left": "Aquí no hay contenidos. Arrastra contenidos desde la izquierda.",
   "editor.play_icon_color.label": "Color del icono de reproducción",
   "editor.play_icon_size.label": "Tamaño del icono de reproducción",
   "editor.play_icon_type.label": "Tipo de icono de reproducción",

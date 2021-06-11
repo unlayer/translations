@@ -173,6 +173,7 @@
   "editor.mobile.description": "Наразі здійснюється редагування для мобільних пристроїв. Перемкніться на робочий стіл для доступу до всіх параметрів стилю.",
   "editor.padding.label": "Заповнення",
   "editor.placeholder.text": "Вміст відсутній. Перетягніть вміст справа.",
+  "editor.placeholder.text.left": "Тут немає контенту. Перетягніть контент зліва.",
   "editor.play_icon_color.label": "Колір піктограми відтворення",
   "editor.play_icon_size.label": "Розмір піктограми відтворення",
   "editor.play_icon_type.label": "Тип піктограми відтворення",

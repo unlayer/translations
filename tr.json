@@ -173,6 +173,7 @@
   "editor.mobile.description": "Şu anda Mobil cihazlar için düzenleme yapıyorsunuz. Tüm stil seçenekleri için Masaüstü'ne geçiş yapın.",
   "editor.padding.label": "Dolgu (Padding)",
   "editor.placeholder.text": "İçerik Yok. Sağ bölümden İçerik sürukleyip buraya bırakın.",
+  "editor.placeholder.text.left": "Burada içerik yok. İçeriği soldan sürükleyin.",
   "editor.play_icon_color.label": "İkon Rengini Oynat",
   "editor.play_icon_size.label": "İkon Boyutunu Oynat",
   "editor.play_icon_type.label": "İkon Tipini Oynat",
