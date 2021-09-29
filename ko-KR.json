@@ -90,7 +90,7 @@
   "editor.digits_color.label": "숫자 색상",
   "editor.digits_font.label": "숫자 폰트",
   "editor.digits_font_size.label": "숫자 폰트 사이즈",
-  "editor.do_not_stack_on_mobile.label": "모바일에서 가리기",
+  "editor.do_not_stack_on_mobile.label": "모바일에서 세로로 쌓지 앟기",
   "editor.end_time.label": "종료 시간",
   "editor.fields.label": "필드",
   "editor.font_family.label": "글꼴",
