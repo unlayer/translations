@@ -79,6 +79,8 @@
   "editor.border.label": "Border",
   "editor.border.solid": "Solid",
   "editor.bottom.label": "Bottom",
+  "editor.bottom_left.label": "Bottom Left",
+  "editor.bottom_right.label": "Bottom Right",
   "editor.button_link.label": "Button Link",
   "editor.color.label": "Color",
   "editor.colors.label": "Colors",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "Call Phone Number",
   "editor.link.mailto": "Mail To",
   "editor.link.new_tab": "New Tab",
+  "editor.link.onclick_unsupported": "OnClick is not supported",
   "editor.link.open_website": "Open Website",
   "editor.link.phone": "Phone",
   "editor.link.same_tab": "Same Tab",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "Text Align",
   "editor.text_color.label": "Text Color",
   "editor.top.label": "Top",
+  "editor.top_left.label": "Top Left",
+  "editor.top_right.label": "Top Right",
   "editor.underline.label": "Underline",
   "editor.video.arrow_only": "Arrow Only",
   "editor.video.video_camera": "Video Camera",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "Images",
   "tools.tabs.row": "Row",
   "tools.tabs.uploads": "Uploads",
-  "tools.text.personalize": "Personalize"
+  "tools.text.personalize": "Personalize",
+  "tools.tooltip.drag_on_canvas": "Drag on canvas",
+  "tools.tooltip.got_it": "Got it"
 }
