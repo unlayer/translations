@@ -79,6 +79,8 @@
   "editor.border.label": "Khung viền",
   "editor.border.solid": "Nét liền",
   "editor.bottom.label": "Dưới",
+  "editor.bottom_left.label": "Góc trái bên dưới",
+  "editor.bottom_right.label": "Góc phải bên dưới",
   "editor.button_link.label": "Nút liên kết",
   "editor.color.label": "Màu chữ",
   "editor.colors.label": "Màu",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "Gọi điện",
   "editor.link.mailto": "Gửi mail đến",
   "editor.link.new_tab": "Mở tab mới",
+  "editor.link.onclick_unsupported": "Không hỗ trợ nhấp vào",
   "editor.link.open_website": "Mở trang Web",
   "editor.link.phone": "Điện thoại",
   "editor.link.same_tab": "Tab hiện tại",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "Căn chỉnh văn bản",
   "editor.text_color.label": "Màu chữ",
   "editor.top.label": "Trên",
+  "editor.top_left.label": "Góc trái bên trên",
+  "editor.top_right.label": "Góc phải bên trên",
   "editor.underline.label": "Gạch chân",
   "editor.video.arrow_only": "Chỉ gồm mũi tên",
   "editor.video.video_camera": "Video Camera",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "Hình ảnh",
   "tools.tabs.row": "Dòng",
   "tools.tabs.uploads": "Tải lên",
-  "tools.text.personalize": "Cá nhân hóa"
+  "tools.text.personalize": "Cá nhân hóa",
+  "tools.tooltip.drag_on_canvas": "Kéo trên nền vẽ canvas",
+  "tools.tooltip.got_it": "Đã hiểu"
 }

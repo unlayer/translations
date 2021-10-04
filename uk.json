@@ -79,6 +79,8 @@
   "editor.border.label": "Межа",
   "editor.border.solid": "Суцільно",
   "editor.bottom.label": "Нижня частина",
+  "editor.bottom_left.label": "Знизу зліва",
+  "editor.bottom_right.label": "Знизу справа",
   "editor.button_link.label": "Посилання кнопки",
   "editor.color.label": "Колір",
   "editor.colors.label": "Кольори",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "Зателефонувати за номером телефону",
   "editor.link.mailto": "Надіслати поштою",
   "editor.link.new_tab": "Нова вкладка",
+  "editor.link.onclick_unsupported": "OnClick не підтримується",
   "editor.link.open_website": "Відкрити веб-сайт",
   "editor.link.phone": "Телефон",
   "editor.link.same_tab": "Однакова вкладка",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "Вирівнювання тексту",
   "editor.text_color.label": "Колір тексту",
   "editor.top.label": "Найпопулярніше",
+  "editor.top_left.label": "Зверху зліва",
+  "editor.top_right.label": "Зверху справа",
   "editor.underline.label": "Підкреслення",
   "editor.video.arrow_only": "Лише стрілка",
   "editor.video.video_camera": "Відеокамера",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "Зображення",
   "tools.tabs.row": "Рядок",
   "tools.tabs.uploads": "Завантаження",
-  "tools.text.personalize": "Персоналізувати"
+  "tools.text.personalize": "Персоналізувати",
+  "tools.tooltip.drag_on_canvas": "Перетягніть на полотно",
+  "tools.tooltip.got_it": "Зрозуміло"
 }

@@ -79,6 +79,8 @@
   "editor.border.label": "الإطار",
   "editor.border.solid": "خط متصل",
   "editor.bottom.label": "أسفل",
+  "editor.bottom_left.label": "أسفل اليسار",
+  "editor.bottom_right.label": "أسفل اليمين",
   "editor.button_link.label": "رابط الزر",
   "editor.color.label": "لون",
   "editor.colors.label": "ألوان",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "اتصل برقم الهاتف",
   "editor.link.mailto": "إرسال بريد إلى",
   "editor.link.new_tab": "لسان تبويب جديد",
+  "editor.link.onclick_unsupported": "لا ندعم OnClick",
   "editor.link.open_website": "افتح الموقع الإلكتروني",
   "editor.link.phone": "الهاتف",
   "editor.link.same_tab": "نفس لسان التبويب",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "محاذاة النص",
   "editor.text_color.label": "لون النص",
   "editor.top.label": "أعلى",
+  "editor.top_left.label": "أعلى اليسار",
+  "editor.top_right.label": "أعلى اليمين",
   "editor.underline.label": "ضع خطا تحت الكلمة",
   "editor.video.arrow_only": "سهم فقط",
   "editor.video.video_camera": "كاميرا فيديو",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "الصور",
   "tools.tabs.row": "صف",
   "tools.tabs.uploads": "التحميلات",
-  "tools.text.personalize": "تخصيص"
+  "tools.text.personalize": "تخصيص",
+  "tools.tooltip.drag_on_canvas": "اسحب على القماش",
+  "tools.tooltip.got_it": "فهمت"
 }

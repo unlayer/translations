@@ -79,6 +79,8 @@
   "editor.border.label": "Ohraničení",
   "editor.border.solid": "Plné",
   "editor.bottom.label": "Dolní",
+  "editor.bottom_left.label": "Vlevo dole",
+  "editor.bottom_right.label": "Vpravo dole",
   "editor.button_link.label": "Odkaz tlačítka",
   "editor.color.label": "Barva",
   "editor.colors.label": "Barvy",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "Volat telefonní číslo",
   "editor.link.mailto": "Komu",
   "editor.link.new_tab": "Nová karta",
+  "editor.link.onclick_unsupported": "Metoda OnClick není podporována",
   "editor.link.open_website": "Otevřít webovou stránku",
   "editor.link.phone": "Telefon",
   "editor.link.same_tab": "Stejná karta",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "Zarovnání textu",
   "editor.text_color.label": "Barva textu",
   "editor.top.label": "Horní",
+  "editor.top_left.label": "Vlevo nahoře",
+  "editor.top_right.label": "Vpravo nahoře",
   "editor.underline.label": "Podtržení",
   "editor.video.arrow_only": "Pouze šipka",
   "editor.video.video_camera": "Videokamera",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "Obrázky",
   "tools.tabs.row": "Řádek",
   "tools.tabs.uploads": "Nahrané soubory",
-  "tools.text.personalize": "Přizpůsobit"
+  "tools.text.personalize": "Přizpůsobit",
+  "tools.tooltip.drag_on_canvas": "Přetáhnout na plátno",
+  "tools.tooltip.got_it": "Chápu"
 }

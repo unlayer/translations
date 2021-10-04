@@ -79,6 +79,8 @@
   "editor.border.label": "Reunus",
   "editor.border.solid": "Vankka",
   "editor.bottom.label": "Pohja",
+  "editor.bottom_left.label": "Vasemmalla alhaalla",
+  "editor.bottom_right.label": "Oikealla alhaalla",
   "editor.button_link.label": "Painikkeen linkki",
   "editor.color.label": "Väri",
   "editor.colors.label": "värit",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "Soita puhelinnumeroon",
   "editor.link.mailto": "Lähetä viesti osoitteeseen",
   "editor.link.new_tab": "Uusi välilehti",
+  "editor.link.onclick_unsupported": "OnClickia ei tueta",
   "editor.link.open_website": "Avaa verkkosivusto",
   "editor.link.phone": "Puhelin",
   "editor.link.same_tab": "Sama välilehti",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "Tekstin kohdistus",
   "editor.text_color.label": "Tekstin väri",
   "editor.top.label": "Ylin",
+  "editor.top_left.label": "Vasemmalla ylhäällä",
+  "editor.top_right.label": "Oikealla ylhäällä",
   "editor.underline.label": "Alleviivaa",
   "editor.video.arrow_only": "Vain nuoli",
   "editor.video.video_camera": "Videokamera",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "Kuvat",
   "tools.tabs.row": "Rivi",
   "tools.tabs.uploads": "Lataukset",
-  "tools.text.personalize": "Personoida"
+  "tools.text.personalize": "Personoida",
+  "tools.tooltip.drag_on_canvas": "Vedä kankaalle",
+  "tools.tooltip.got_it": "Asia selvä"
 }

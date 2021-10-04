@@ -79,6 +79,8 @@
   "editor.border.label": "Kant",
   "editor.border.solid": "Solidt",
   "editor.bottom.label": "Bund",
+  "editor.bottom_left.label": "Nederst Til Venstre",
+  "editor.bottom_right.label": "Nederst Til Højre",
   "editor.button_link.label": "Knap link",
   "editor.color.label": "Farve",
   "editor.colors.label": "Farver",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "Ring til telefonnummer",
   "editor.link.mailto": "Mail til",
   "editor.link.new_tab": "Ny fane",
+  "editor.link.onclick_unsupported": "OnClick er ikke understøttet",
   "editor.link.open_website": "Åbn hjemmeside",
   "editor.link.phone": "Telefon",
   "editor.link.same_tab": "Samme fane",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "Tekstjustering",
   "editor.text_color.label": "Tekstfarve",
   "editor.top.label": "Top",
+  "editor.top_left.label": "Øverst Til Venstre",
+  "editor.top_right.label": "Øverst Til Højre",
   "editor.underline.label": "Understreg",
   "editor.video.arrow_only": "Kun pil",
   "editor.video.video_camera": "Videokamera",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "Billeder",
   "tools.tabs.row": "Række",
   "tools.tabs.uploads": "Uploads",
-  "tools.text.personalize": "Personliggør"
+  "tools.text.personalize": "Personliggør",
+  "tools.tooltip.drag_on_canvas": "Træk på lærred",
+  "tools.tooltip.got_it": "Forstået"
 }

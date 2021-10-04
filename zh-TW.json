@@ -79,6 +79,8 @@
   "editor.border.label": "邊線",
   "editor.border.solid": "實線",
   "editor.bottom.label": "下",
+  "editor.bottom_left.label": "左下角",
+  "editor.bottom_right.label": "右下角",
   "editor.button_link.label": "連結按鈕",
   "editor.color.label": "顏色",
   "editor.colors.label": "顏色",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "撥電話號碼",
   "editor.link.mailto": "傳送到",
   "editor.link.new_tab": "新開標籤頁",
+  "editor.link.onclick_unsupported": "不支援 OnClick",
   "editor.link.open_website": "開啟網站",
   "editor.link.phone": "電話",
   "editor.link.same_tab": "原標籤頁",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "文字排列",
   "editor.text_color.label": "文字顏色",
   "editor.top.label": "上",
+  "editor.top_left.label": "左上角",
+  "editor.top_right.label": "右上角",
   "editor.underline.label": "底線",
   "editor.video.arrow_only": "只有箭頭",
   "editor.video.video_camera": "影片攝影機",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "影像",
   "tools.tabs.row": "欄位",
   "tools.tabs.uploads": "上傳",
-  "tools.text.personalize": "動態標籤"
+  "tools.text.personalize": "動態標籤",
+  "tools.tooltip.drag_on_canvas": "拖曳到畫布",
+  "tools.tooltip.got_it": "了解"
 }

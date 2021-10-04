@@ -79,6 +79,8 @@
   "editor.border.label": "Borda",
   "editor.border.solid": "Sólida",
   "editor.bottom.label": "Rodapé",
+  "editor.bottom_left.label": "Canto inferior esquerdo",
+  "editor.bottom_right.label": "Canto inferior direito",
   "editor.button_link.label": "Link do Botão",
   "editor.color.label": "Cor",
   "editor.colors.label": "Cores",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "Ligar para número de telefone",
   "editor.link.mailto": "Enviar para",
   "editor.link.new_tab": "Nova Aba",
+  "editor.link.onclick_unsupported": "OnClick não é compatível",
   "editor.link.open_website": "Abrir site",
   "editor.link.phone": "Telefone",
   "editor.link.same_tab": "Mesma Aba",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "Alinhamento do Texto",
   "editor.text_color.label": "Cor do Texto",
   "editor.top.label": "Topo",
+  "editor.top_left.label": "Canto superior esquerdo",
+  "editor.top_right.label": "Canto superior direito",
   "editor.underline.label": "Sublinhado",
   "editor.video.arrow_only": "Somente seta",
   "editor.video.video_camera": "Câmera de vídeo",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "Imagens",
   "tools.tabs.row": "Linha",
   "tools.tabs.uploads": "Uploads",
-  "tools.text.personalize": "Personalizar"
+  "tools.text.personalize": "Personalizar",
+  "tools.tooltip.drag_on_canvas": "Arrastar sobre a tela",
+  "tools.tooltip.got_it": "Entendi"
 }

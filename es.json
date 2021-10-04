@@ -79,6 +79,8 @@
   "editor.border.label": "Borde",
   "editor.border.solid": "Sólido",
   "editor.bottom.label": "Abajo",
+  "editor.bottom_left.label": "Parte inferior izquierda",
+  "editor.bottom_right.label": "Parte inferior derecha",
   "editor.button_link.label": "Enlace Botón",
   "editor.color.label": "Color",
   "editor.colors.label": "Colores",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "Llamar al número de teléfono",
   "editor.link.mailto": "Correo para",
   "editor.link.new_tab": "Nueva Pestaña",
+  "editor.link.onclick_unsupported": "No compatible con OnClick",
   "editor.link.open_website": "Abrir página web",
   "editor.link.phone": "Teléfono",
   "editor.link.same_tab": "Misma Pestaña",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "Alineación Texto",
   "editor.text_color.label": "Color Texto",
   "editor.top.label": "Arriba",
+  "editor.top_left.label": "Parte superior izquierda",
+  "editor.top_right.label": "Parte superior derecha",
   "editor.underline.label": "Subrayado",
   "editor.video.arrow_only": "Solo flecha",
   "editor.video.video_camera": "Cámara de vídeo",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "Imágenes",
   "tools.tabs.row": "Fila",
   "tools.tabs.uploads": "Subidas",
-  "tools.text.personalize": "Personalizar"
+  "tools.text.personalize": "Personalizar",
+  "tools.tooltip.drag_on_canvas": "Arrastra en la hoja",
+  "tools.tooltip.got_it": "Entendido"
 }

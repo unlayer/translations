@@ -79,6 +79,8 @@
   "editor.border.label": "ボーダー",
   "editor.border.solid": "塗りつぶし",
   "editor.bottom.label": "下",
+  "editor.bottom_left.label": "左下",
+  "editor.bottom_right.label": "右下",
   "editor.button_link.label": "ボタンリンク",
   "editor.color.label": "色",
   "editor.colors.label": "色",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "電話番号",
   "editor.link.mailto": "MailTo",
   "editor.link.new_tab": "新しいタブ",
+  "editor.link.onclick_unsupported": "OnClickはサポートされていません",
   "editor.link.open_website": "ウェブサイトを開く",
   "editor.link.phone": "電話",
   "editor.link.same_tab": "同じタブ",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "テキストの配置",
   "editor.text_color.label": "テキストの色",
   "editor.top.label": "上",
+  "editor.top_left.label": "左上",
+  "editor.top_right.label": "右上",
   "editor.underline.label": "アンダーライン",
   "editor.video.arrow_only": "矢印のみ",
   "editor.video.video_camera": "ビデオカメラ",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "画像",
   "tools.tabs.row": "行",
   "tools.tabs.uploads": "アップロード",
-  "tools.text.personalize": "パーソナライズ"
+  "tools.text.personalize": "パーソナライズ",
+  "tools.tooltip.drag_on_canvas": "キャンバス上でドラッグ",
+  "tools.tooltip.got_it": "了解"
 }
