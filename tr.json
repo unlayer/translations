@@ -79,6 +79,8 @@
   "editor.border.label": "Kenarlık",
   "editor.border.solid": "Çizgi",
   "editor.bottom.label": "Alt",
+  "editor.bottom_left.label": "Sol Alt",
+  "editor.bottom_right.label": "Sağ Alt",
   "editor.button_link.label": "Buton Yolu",
   "editor.color.label": "Renk",
   "editor.colors.label": "Renkler",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "Telefon Numarasını Ara",
   "editor.link.mailto": "Alıcı",
   "editor.link.new_tab": "Yeni Tab",
+  "editor.link.onclick_unsupported": "OnClick desteklenmiyor",
   "editor.link.open_website": "Siteyi Aç",
   "editor.link.phone": "Telefon",
   "editor.link.same_tab": "Aynı Tab",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "Metin Hizalama",
   "editor.text_color.label": "Metin Rengi",
   "editor.top.label": "Üst",
+  "editor.top_left.label": "Sol Üst",
+  "editor.top_right.label": "Sağ Üst",
   "editor.underline.label": "Altını Çiz",
   "editor.video.arrow_only": "Sadece Ok",
   "editor.video.video_camera": "Video Kamera",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "Görseller",
   "tools.tabs.row": "Satır",
   "tools.tabs.uploads": "Karşıya Yüklenenler",
-  "tools.text.personalize": "Kişiselleştir"
+  "tools.text.personalize": "Kişiselleştir",
+  "tools.tooltip.drag_on_canvas": "Tuvale sürükle",
+  "tools.tooltip.got_it": "Anladım"
 }

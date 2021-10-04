@@ -79,6 +79,8 @@
   "editor.border.label": "Rand",
   "editor.border.solid": "Ononderbroken",
   "editor.bottom.label": "Onderkant",
+  "editor.bottom_left.label": "Linksonder",
+  "editor.bottom_right.label": "Rechtsonder",
   "editor.button_link.label": "Knop Link",
   "editor.color.label": "Kleur",
   "editor.colors.label": "Kleuren",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "Telefoonnummer",
   "editor.link.mailto": "Mail naar",
   "editor.link.new_tab": "Nieuw tabblad",
+  "editor.link.onclick_unsupported": "OnClick wordt niet ondersteund",
   "editor.link.open_website": "Open website",
   "editor.link.phone": "Telefoon",
   "editor.link.same_tab": "Hetzelfde tabblad",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "Tekst uitlijnen",
   "editor.text_color.label": "Tekst kleur",
   "editor.top.label": "Bovenkant",
+  "editor.top_left.label": "Linksboven",
+  "editor.top_right.label": "Rechtsboven",
   "editor.underline.label": "Onderstrepen",
   "editor.video.arrow_only": "Alleen pijl",
   "editor.video.video_camera": "Videocamera",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "Afbeeldingen",
   "tools.tabs.row": "Rij",
   "tools.tabs.uploads": "Uploads",
-  "tools.text.personalize": "Personaliseer"
+  "tools.text.personalize": "Personaliseer",
+  "tools.tooltip.drag_on_canvas": "Sleep op canvas",
+  "tools.tooltip.got_it": "Begrepen"
 }

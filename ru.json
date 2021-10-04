@@ -79,6 +79,8 @@
   "editor.border.label": "Граница",
   "editor.border.solid": "Сплошной",
   "editor.bottom.label": "Низ",
+  "editor.bottom_left.label": "Снизу слева",
+  "editor.bottom_right.label": "Снизу справа",
   "editor.button_link.label": "Ссылка кнопки",
   "editor.color.label": "Цвет",
   "editor.colors.label": "Цвета",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "Позвонить по номеру",
   "editor.link.mailto": "Кому",
   "editor.link.new_tab": "Новая вкладка",
+  "editor.link.onclick_unsupported": "OnClick не поддерживается",
   "editor.link.open_website": "Открыть сайт",
   "editor.link.phone": "Телефон",
   "editor.link.same_tab": "Та же вкладка",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "Выравнивание текста",
   "editor.text_color.label": "Цвет текста",
   "editor.top.label": "Верх",
+  "editor.top_left.label": "Сверху слева",
+  "editor.top_right.label": "Сверху справа",
   "editor.underline.label": "Подчеркнуть",
   "editor.video.arrow_only": "Только стрелка",
   "editor.video.video_camera": "Видеокамера",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "Изображения",
   "tools.tabs.row": "Ряд",
   "tools.tabs.uploads": "Загрузки",
-  "tools.text.personalize": "Персонализировать"
+  "tools.text.personalize": "Персонализировать",
+  "tools.tooltip.drag_on_canvas": "Перетащить на холст",
+  "tools.tooltip.got_it": "Понятно"
 }

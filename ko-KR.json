@@ -79,6 +79,8 @@
   "editor.border.label": "선",
   "editor.border.solid": "실선",
   "editor.bottom.label": "하단",
+  "editor.bottom_left.label": "왼쪽 하단",
+  "editor.bottom_right.label": "오른쪽 하단",
   "editor.button_link.label": "버튼 링크",
   "editor.color.label": "색상",
   "editor.colors.label": "색상",
@@ -90,7 +92,7 @@
   "editor.digits_color.label": "숫자 색상",
   "editor.digits_font.label": "숫자 폰트",
   "editor.digits_font_size.label": "숫자 폰트 사이즈",
-  "editor.do_not_stack_on_mobile.label": "모바일에서 세로로 쌓지 앟기",
+  "editor.do_not_stack_on_mobile.label": "모바일에서 가리기",
   "editor.end_time.label": "종료 시간",
   "editor.fields.label": "필드",
   "editor.font_family.label": "글꼴",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "전화번호",
   "editor.link.mailto": "메일 수신인",
   "editor.link.new_tab": "새탭에서 열기",
+  "editor.link.onclick_unsupported": "OnClick은 지원되지 않습니다",
   "editor.link.open_website": "웹사이트 열기",
   "editor.link.phone": "전화",
   "editor.link.same_tab": "현재 탭에서 열기",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "텍스트 정렬",
   "editor.text_color.label": "텍스트 색상",
   "editor.top.label": "상단",
+  "editor.top_left.label": "왼쪽 상단",
+  "editor.top_right.label": "오른쪽 상단",
   "editor.underline.label": "밑줄",
   "editor.video.arrow_only": "화살표만",
   "editor.video.video_camera": "비디오 카메라",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "이미지",
   "tools.tabs.row": "영역",
   "tools.tabs.uploads": "업로드",
-  "tools.text.personalize": "개인화"
+  "tools.text.personalize": "개인화",
+  "tools.tooltip.drag_on_canvas": "캔버스에서 드래그",
+  "tools.tooltip.got_it": "알겠습니다"
 }

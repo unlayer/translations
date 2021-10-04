@@ -79,6 +79,8 @@
   "editor.border.label": "Rand",
   "editor.border.solid": "Gefüllt",
   "editor.bottom.label": "Unten",
+  "editor.bottom_left.label": "Unten links",
+  "editor.bottom_right.label": "Unten rechts",
   "editor.button_link.label": "Schaltfläche mit Link",
   "editor.color.label": "Farbe",
   "editor.colors.label": "Farben",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "Telefonnummer anrufen",
   "editor.link.mailto": "Senden an",
   "editor.link.new_tab": "Neuer Tab",
+  "editor.link.onclick_unsupported": "OnClick wird nicht unterstützt",
   "editor.link.open_website": "Website öffnen",
   "editor.link.phone": "Telefon",
   "editor.link.same_tab": "Gleicher Tab",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "Textausrichtung",
   "editor.text_color.label": "Textfarbe",
   "editor.top.label": "Oben",
+  "editor.top_left.label": "Oben links",
+  "editor.top_right.label": "Oben rechts",
   "editor.underline.label": "Unterstreichen",
   "editor.video.arrow_only": "Nur Pfeil",
   "editor.video.video_camera": "Videokamera",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "Bilder",
   "tools.tabs.row": "Zeile",
   "tools.tabs.uploads": "Uploads",
-  "tools.text.personalize": "Personalisieren"
+  "tools.text.personalize": "Personalisieren",
+  "tools.tooltip.drag_on_canvas": "Auf die Leinwand ziehen",
+  "tools.tooltip.got_it": "Verstanden"
 }

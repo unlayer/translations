@@ -79,6 +79,8 @@
   "editor.border.label": "Vora",
   "editor.border.solid": "Solid",
   "editor.bottom.label": "Fons",
+  "editor.bottom_left.label": "Inferior esquerra",
+  "editor.bottom_right.label": "Inferior dreta",
   "editor.button_link.label": "Botó amb link",
   "editor.color.label": "Color",
   "editor.colors.label": "Colors",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "Trucar a un telèfon",
   "editor.link.mailto": "Email a",
   "editor.link.new_tab": "Nova pestanya",
+  "editor.link.onclick_unsupported": "OnClick no està disponible",
   "editor.link.open_website": "Obrir pàgina web",
   "editor.link.phone": "Tèlefon",
   "editor.link.same_tab": "Mateixa pestanya",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "Alineació del text",
   "editor.text_color.label": "Color del text",
   "editor.top.label": "Part superior",
+  "editor.top_left.label": "Superior esquerra",
+  "editor.top_right.label": "Superior dreta",
   "editor.underline.label": "Subratllat",
   "editor.video.arrow_only": "Només fletxa",
   "editor.video.video_camera": "Càmera de vídeo",
@@ -330,5 +335,7 @@
   "tools.tabs.images": "Imatges",
   "tools.tabs.row": "Fila",
   "tools.tabs.uploads": "Pujades",
-  "tools.text.personalize": "Personalitzar"
+  "tools.text.personalize": "Personalitzar",
+  "tools.tooltip.drag_on_canvas": "Arrossegueu al llenç",
+  "tools.tooltip.got_it": "Entès!"
 }

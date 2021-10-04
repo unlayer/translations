@@ -79,6 +79,8 @@
   "editor.border.label": "Kant",
   "editor.border.solid": "Heltrukket",
   "editor.bottom.label": "Bunn",
+  "editor.bottom_left.label": "Nederst til venstre",
+  "editor.bottom_right.label": "Nederst til høyre",
   "editor.button_link.label": "Bunnkobling",
   "editor.color.label": "Farge",
   "editor.colors.label": "Farger",
@@ -160,6 +162,7 @@
   "editor.link.call_phone": "Ring telefonnummer",
   "editor.link.mailto": "Send e-post til",
   "editor.link.new_tab": "Ny fane",
+  "editor.link.onclick_unsupported": "Det er ikke støtte for OnClick",
   "editor.link.open_website": "Åpne nettsted",
   "editor.link.phone": "Telefon",
   "editor.link.same_tab": "Samme fane",
@@ -189,6 +192,8 @@
   "editor.text_align.label": "Tekstjustering",
   "editor.text_color.label": "Tekstfarge",
   "editor.top.label": "Topp",
+  "editor.top_left.label": "Øverst til venstre",
+  "editor.top_right.label": "Øverst til høyre",
   "editor.underline.label": "Understreking",
   "editor.video.arrow_only": "Bare pil",
   "editor.video.video_camera": "Videokamera",
@@ -216,6 +221,7 @@
   "labels.format_text": "Formater tekst",
   "labels.google_fonts": "Google-skrifttyper",
   "labels.gradient": "Gradering",
+  "labels.hide": "Skjul",
   "labels.horizontal": "Vannrett",
   "labels.language": "Språk",
   "labels.loading": "Laster",
@@ -329,5 +335,7 @@
   "tools.tabs.images": "Bilder",
   "tools.tabs.row": "Rad",
   "tools.tabs.uploads": "Opplastinger",
-  "tools.text.personalize": "Tilpasse"
+  "tools.text.personalize": "Tilpasse",
+  "tools.tooltip.drag_on_canvas": "Dra på lerret",
+  "tools.tooltip.got_it": "Forstått"
 }
