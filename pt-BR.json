@@ -147,7 +147,7 @@
   "editor.image.offset_y": "Offset Y",
   "editor.image.outline_width": "Largura do contorno",
   "editor.image.uploading": "Enviando",
-  "editor.image.upload_error": "Ocorreu um erro ao enviar sua imagem. Confirme se é um arquivo de imagem válido com o tamanho menor {mbSize} MB.",
+  "editor.image.upload_error": "Ocorreu um erro ao enviar sua imagem. Confirme se é um arquivo de imagem válido com o tamanho menor que {mbSize} MB.",
   "editor.image.use_percentages": "Usar porcentagens",
   "editor.image_link.label": "Link da Imagem",
   "editor.inherit_body_styles.label": "Herdar estilos de corpo",
