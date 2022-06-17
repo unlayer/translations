@@ -354,7 +354,7 @@
   "tabs.audit.missing_tool_name": "Tool name not found",
   "tabs.audit.rules.button.empty_links.description": "Without a link, buttons will not work when a user clicks on it. Add a link to the following buttons.",
   "tabs.audit.rules.button.empty_links.title": "Button links are empty",
-  "tabs.audit.rules.image.alt_text.description": "Without alt text, people who rely on screen readers can’t access image information. Write an appropriate alternate text for the following imags.",
+  "tabs.audit.rules.image.alt_text.description": "Without alt text, people who rely on screen readers can’t access image information. Write an appropriate alternate text for the following images.",
   "tabs.audit.rules.image.alt_text.title": "Missing alternate text",
   "tabs.audit.rules.image.url.description": "Without an image URL, the following images will not be rendered. Upload an image to the following images.",
   "tabs.audit.rules.image.url.title": "Missing images",
