@@ -315,8 +315,15 @@
   "modals.delete.confirmation": "Are you sure you want to delete this? This action cannot be undone.",
   "modals.delete.title": "Delete",
   "modals.display_conditions.title": "Select a Display Condition",
+  "modals.preview.exit_preview": "Exit Preview",
   "modals.preview.inbox_preview.button.generate_previews": "Generate Previews",
-  "modals.preview.inbox_preview.label": "Inbox Previews",
+  "modals.preview.inbox_preview.label": "Inbox",
+  "modals.preview.browser_preview.label": "Browser",
+  "modals.preview.send_test_email.label": "Send Test Email",
+  "modals.preview.send_test_email.email_sent": "Email Sent",
+  "modals.preview.send_test_email.on_the_way": "Your test email is on its way to {email}",
+  "modals.preview.send_test_email.email_not_sent": "Email Not Sent",
+  "modals.preview.send_test_email.unexpected": "There was an error while sending the test email. Try again.",
   "modals.preview.inbox_preview.label.generating_again": "Generate again",
   "modals.preview.inbox_preview.label.generating_previews": "Generating previews",
   "modals.preview.inbox_preview.text.generate_previews": "Check how your template will look like in the inbox of different devices and email services.",
@@ -400,5 +407,5 @@
   "tools.tabs.uploads": "Uploads",
   "tools.text.personalize": "Personalize",
   "tools.tooltip.drag_on_canvas": "Drag on canvas",
-  "tools.tooltip.got_it": "Got it"
+  "tools.tooltip.got_it": "Got It"
 }
