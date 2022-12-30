@@ -225,7 +225,7 @@
   "editor.preheader_text.description": "O pré-cabeçalho é o texto resumido logo depois da linha de assunto quando se visualiza um e-mail na caixa de entrada.",
   "editor.preheader_text.label": "Texto do Pré-cabeçalho",
   "editor.right.label": "Direita",
-  "editor.rounded_border.label": "Bordar arrendodada",
+  "editor.rounded_border.label": "Bordas arrendondadas",
   "editor.section_name.description": "Os nomes de secção são usados para estabelecer hiperligações dentro de uma página. Servem como âncoras para botões ou hiperligações.",
   "editor.section_name.label": "Nome da secção",
   "editor.separator.label": "Separador",
