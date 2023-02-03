@@ -232,6 +232,7 @@
   "editor.magic_image.first_experience.title": "Let {ai} Create Images",
   "editor.magic_image.modal_title": "Magic Images by {ai}",
   "editor.magic_image.prompt_placeholder": "A turtle swimming underwater, expressionist painting",
+  "editor.magic_image.stock_list.text": "Get the perfect image with AI. Just type what you want and AI will create it for you.",
   "editor.magic_image.text_prompt": "Your Text Prompt",
   "editor.magic_image.the_prompt": "The Prompt",
   "editor.margin.label": "Margin",
