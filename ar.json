@@ -27,10 +27,12 @@
   "buttons.duplicate": "نسخ",
   "buttons.duplication_disabled_usage_limit": "لا يمكنك تكرار هذا بسبب وجود حد للاستخدام",
   "buttons.edit": "تعديل",
+  "buttons.edit_prompt": "طلب التعديل",
   "buttons.expand_text": "توسيع النص",
   "buttons.filter": "عوامل التصفية",
   "buttons.fix_spelling_grammar": "إصلاح الأخطاء الإملائية والنحوية",
   "buttons.frame": "إطار",
+  "buttons.generate": "إنشاء",
   "buttons.generate_images": "إنشاء الصور",
   "buttons.get_suggestions": "احصل على اقتراحات",
   "buttons.history": "السجل",
@@ -39,7 +41,9 @@
   "buttons.merge": "دمج",
   "buttons.mobile": "الهاتف المحمول",
   "buttons.more_options": "المزيد من الخيارات",
+  "buttons.next": "التالي",
   "buttons.open": "فتح",
+  "buttons.regenerate": "إعادة إنشاء",
   "buttons.remove_column": "إزالة عمود",
   "buttons.rephrase_text": "إعادة صياغة النص",
   "buttons.reset": "إعادة الضبط",
@@ -226,21 +230,49 @@
   "editor.link.page_section": "انتقل إلى قسم الصفحة",
   "editor.link.phone": "الهاتف",
   "editor.link.same_tab": "نفس لسان التبويب",
+  "editor.link.selection_limit_exceeded": "لقد بلغت الحد الأقصى للعناصر المحددة",
   "editor.link.send_email": "إرسال بريد إلكتروني",
   "editor.link.send_sms": "أرسل رسالة نصية قصيرة",
   "editor.link.subject": "الموضوع",
   "editor.link.target": "المستهدف",
   "editor.link.url": "الرابط",
   "editor.link_color.label": "ربط الألوان",
+  "editor.magic_image.almost_there": "أوشكنا على الانتهاء",
+  "editor.magic_image.analyzing_your_prompt": "جارٍ تحليل طلبك",
+  "editor.magic_image.choose_style": "اختر أسلوباً",
+  "editor.magic_image.choose_style_description": "اختر نسقاً للصورة التي تود إنشاءها. يمكن أن يتضمن أسماء فنانين (مثل بيكاسو، أو غيره) أو أنماطاً مخصصة مثل الخيال أو مفصّلة أو حديثة أو معاصرة، وما إلى ذلك.",
   "editor.magic_image.describe_image": "صِف بالتفصيل ما تريد أن يصنعه الذكاء الاصطناعي.",
   "editor.magic_image.enable_ai.text": "احصل على الصور المثالية الفريدة والمخصصة لتصميمك باستخدام الذكاء الاصطناعي.",
   "editor.magic_image.first_experience.text": "احصل على الصورة المثالية باستخدام الذكاء الاصطناعي. سواء كان الوصف \"كرة على الشاطئ\" أو ربما \"رجل يملأ استمارة\"، فقط اكتبه ليتم إنشاؤه!",
   "editor.magic_image.first_experience.title": "دع {ai} يُنشئ الصور",
+  "editor.magic_image.generating_images_for": "إنشاء صور لـ:",
   "editor.magic_image.modal_title": "صور سحرية بواسطة {ai}",
+  "editor.magic_image.no_suggestions": "لا توجد اقتراحات",
   "editor.magic_image.prompt_placeholder": "سلحفاة تسبح تحت الماء، لوحة تعبيريّة",
+  "editor.magic_image.prompt_score_good": "😊 يبدو جيداً! يبدو طلبك كافياً لإنشاء صور جميلة.",
+  "editor.magic_image.prompt_score_info": "💡 هذه درجة طلبك. يُرجى استخدام كلمات ذات معنى ووصف المشهد بالتفصيل للحصول على نتائج أفضل.",
+  "editor.magic_image.prompt_score_not_good": "😕 درجة طلبك ليست جيدة بما يكفي. يُرجى استخدام كلمات أوضح ووصف المشهد بالتفصيل قدر الإمكان.",
+  "editor.magic_image.prompt_style_suffix": "أسلوب {style}",
+  "editor.magic_image.sample_prompt.computer": "جهاز كمبيوتر من التسعينيات بأسلوب فابورويف",
+  "editor.magic_image.sample_prompt.david_sculpture": "صورة لمنحوتة مايكل أنجلو لداود مرتدياً سماعات وهو ينسّق الموسيقى",
+  "editor.magic_image.sample_prompt.samoyed": "صورة لكلب سامودي ولسانه خارج معانقاً قط سيامي أبيض",
+  "editor.magic_image.sample_prompt.van_gogh": "لوحة بأسلوب فان جوخ للاعب كرة قدم أمريكية",
   "editor.magic_image.stock_list.text": "احصل على الصورة المثالية باستخدام الذكاء الاصطناعي. فقط اكتب ما تريد وسيقوم الذكاء الاصطناعي بإنشائها لك.",
+  "editor.magic_image.styles.3d_illustration": "رسم 3D",
+  "editor.magic_image.styles.flat_art": "فن مسطح",
+  "editor.magic_image.styles.geometric": "هندسي",
+  "editor.magic_image.styles.lettering": "رسم الحروف",
+  "editor.magic_image.styles.minimalism": "تبسيطية",
+  "editor.magic_image.styles.psychedelic": "مهلوس",
+  "editor.magic_image.styles.realism": "واقعية",
+  "editor.magic_image.styles.retro_vintage": "رجعي/عتيق",
+  "editor.magic_image.styles.surrealism": "سريالية",
+  "editor.magic_image.styles.vector": "متجهي",
+  "editor.magic_image.suggested_prompts": "طلبات مقترحة",
+  "editor.magic_image.suggested_prompts_description": "أنشأ الذكاء الاصطناعي طلبات بناءً على مدخلاتك لمساعدتك في إنشاء صور أفضل. اختر طلباً مما يلي أو تابع باستخدام مدخلك الأصلي:",
   "editor.magic_image.text_prompt": "مُوجِّه النص الخاص بك",
   "editor.magic_image.the_prompt": "المُوجِّه",
+  "editor.magic_image.uploading_your_image": "جارٍ رفع صورتك",
   "editor.margin.label": "الهامش",
   "editor.mobile.description": "أنت تُحرِر الآن من أجل الأجهزة الجوالة. تحول إلى سطح المكتب من أجل كل خيارات التصميم.",
   "editor.offline_mode_is_enabled": "تمّ تفعيل وضع خارج الخدمة",
