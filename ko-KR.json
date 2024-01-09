@@ -445,6 +445,7 @@
   "modals.tags.placeholder": "tag1, tag2",
   "option_groups.action.title": "동작",
   "option_groups.all.title": "전체",
+  "option_groups.background.title": "배경",
   "option_groups.blank.title": "공백",
   "option_groups.button.title": "버튼",
   "option_groups.button_options.title": "버튼 옵션",
