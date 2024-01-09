@@ -446,6 +446,7 @@
   "modals.tags.placeholder": "тег1, тег2",
   "option_groups.action.title": "Действие",
   "option_groups.all.title": "Все",
+  "option_groups.background.title": "Фон",
   "option_groups.blank.title": "Пусто",
   "option_groups.button.title": "Кнопка",
   "option_groups.button_options.title": "Параметры кнопок",
