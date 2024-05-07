@@ -176,6 +176,7 @@
   "editor.hover_color.label": "Hover Color",
   "editor.hover_text.label": "Hover Text Color",
   "editor.hover_underline.label": "Hover Underline",
+  "editor.icon_size.label": "Icon Size",
   "editor.icon_spacing.label": "Icon Spacing",
   "editor.icon_type.label": "Icon Type",
   "editor.image.added_drawing": "Added: drawing",
