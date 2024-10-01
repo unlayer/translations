@@ -205,7 +205,7 @@
   "editor.image.drop_upload": "Upuść nowy obraz tutaj lub kliknij, aby wybrać pliki do przesłania.",
   "editor.image.full_width_mobile": "Pełna szerokość na urządzeniu mobilnym",
   "editor.image.image_options": "Opcje obrazu",
-  "editor.image.image_url": "Adres URL obrazu",
+  "editor.image.image_url": "URL obrazka",
   "editor.image.initial": "Początkowy",
   "editor.image.label": "Obraz",
   "editor.image.loaded_state": "Załadowano: status",
