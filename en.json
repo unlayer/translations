@@ -192,7 +192,7 @@
   "editor.image.applied_rounded_corners": "Applied: rounded corners",
   "editor.image.applied_transform": "Applied: transform",
   "editor.image.auto": "Auto",
-  "editor.image.auto_width": "Auto Width",
+  "editor.image.auto_width": "Adjust to width",
   "editor.image.auto_width_switch_off": "Switch off auto width to manually resize the image",
   "editor.image.brush_color": "Brush Color",
   "editor.image.brush_size": "Brush Size",
