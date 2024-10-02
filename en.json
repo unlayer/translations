@@ -176,7 +176,7 @@
   "editor.hover_background.label": "Button color on hover",
   "editor.hover_color.label": "Color on hover",
   "editor.hover_text.label": "Text color on hover",
-  "editor.hover_underline.label": "Hover Underline",
+  "editor.hover_underline.label": "Underline on hover",
   "editor.icon_size.label": "Icon Size",
   "editor.icon_spacing.label": "Icon Spacing",
   "editor.icon_type.label": "Icon Type",
