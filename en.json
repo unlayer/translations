@@ -303,7 +303,7 @@
   "editor.preheader_text.description": "A preheader is the short summary text that follows the subject line when viewing an email from the inbox.",
   "editor.preheader_text.label": "Preheader Text",
   "editor.right.label": "Right",
-  "editor.rounded_border.label": "Rounded Border",
+  "editor.rounded_border.label": "Rounded corners",
   "editor.section_name.description": "A section name is used for linking within a page. It serves as an anchor for buttons or links.",
   "editor.section_name.label": "Section Name",
   "editor.select_image.label": "Select Image",
