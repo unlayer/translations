@@ -385,7 +385,7 @@
   "labels.device_override": "Some values are being overriden depending on the device screen size",
   "labels.disable_dark_mode": "Disable Dark Mode",
   "labels.dismiss": "Dismiss",
-  "labels.display_conditions": "Display Conditions",
+  "labels.display_conditions": "Display conditions",
   "labels.dynamic_content_enabled": "Dynamic content enabled",
   "labels.editor": "Editor",
   "labels.enable_dark_mode": "Enable Dark Mode",
