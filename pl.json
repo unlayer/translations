@@ -218,7 +218,7 @@
   "editor.image.uploading": "Przesyłanie",
   "editor.image.upload_error": "Podczas przesyłania obrazu wystąpił błąd. Sprawdź, czy jest to prawidłowy plik obrazu o rozmiarze poniżej {mbSize} MB.",
   "editor.image.use_percentages": "Użyj wartości procentowych",
-  "editor.image_link.label": "Łącze obrazu",
+  "editor.image_link.label": "Typ linku",
   "editor.image_size.label": "Wielkość obrazu",
   "editor.inherit_body_styles.label": "Dziedzicz style treści",
   "editor.labels.missing_languages": "Brakujące języki",
