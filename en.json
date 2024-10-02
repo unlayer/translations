@@ -220,7 +220,7 @@
   "editor.image.use_percentages": "Use Percentages",
   "editor.image_link.label": "Link type",
   "editor.image_size.label": "Image Size",
-  "editor.inherit_body_styles.label": "Inherit Body Styles",
+  "editor.inherit_body_styles.label": "Apply style settings",
   "editor.labels.missing_languages": "Missing Languages",
   "editor.labels.try_it_now": "Try it Now!",
   "editor.labels.web": "Web",
