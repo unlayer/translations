@@ -294,7 +294,7 @@
   "editor.mobile.description": "You are currently editing for mobile devices. Switch to desktop view for all styling options.",
   "editor.offline_mode_is_enabled": "Offline mode is enabled",
   "editor.padding.label": "Padding",
-  "editor.placeholder.text": "No content here. Drag content from right.",
+  "editor.placeholder.text": "Drag and drop content here.",
   "editor.placeholder.text.left": "No content here. Drag content from left.",
   "editor.placeholder.text.small": "No content here.",
   "editor.play_icon_color.label": "Play Icon Color",
