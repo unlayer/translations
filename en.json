@@ -218,7 +218,7 @@
   "editor.image.uploading": "Uploading",
   "editor.image.upload_error": "There was an error uploading your image. Make sure it's a valid image file with size under {mbSize} MB.",
   "editor.image.use_percentages": "Use Percentages",
-  "editor.image_link.label": "Image Link",
+  "editor.image_link.label": "Link type",
   "editor.image_size.label": "Image Size",
   "editor.inherit_body_styles.label": "Inherit Body Styles",
   "editor.labels.missing_languages": "Missing Languages",
