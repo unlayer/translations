@@ -162,7 +162,7 @@
   "editor.font_weight.700": "Bold",
   "editor.font_weight.800": "Extra Bold",
   "editor.font_weight.900": "Czarna",
-  "editor.font_weight.label": "Szerokość czcionki",
+  "editor.font_weight.label": "Grubość czcionki",
   "editor.form.custom": "Niestandardowe",
   "editor.form.method": "Metoda",
   "editor.form_alignment.label": "Wyrównanie formularza",
