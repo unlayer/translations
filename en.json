@@ -479,7 +479,7 @@
   "modals.save_block.title": "Save Block",
   "modals.tags.description": "Tags are used for searching. Multiple tags can be separated by a comma.",
   "modals.tags.placeholder": "tag1, tag2",
-  "option_groups.action.title": "Action",
+  "option_groups.action.title": "Links",
   "option_groups.all.title": "All",
   "option_groups.background.title": "Background",
   "option_groups.blank.title": "Columns",
