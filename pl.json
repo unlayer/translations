@@ -142,7 +142,7 @@
   "editor.columns_background.label": "Tło kolumn",
   "editor.container_padding.label": "Marginesy",
   "editor.content_alignment.label": "Wyrównanie treści",
-  "editor.content_background_color.label": "Kolor tła zawartości",
+  "editor.content_background_color.label": "Kolor tła bloku treści",
   "editor.content_width.label": "Szerokość zawartości",
   "editor.desktop.description": "Aktualnie edytujesz dla urządzeń typu Desktop. Przełącz się na wszystkie opcje stylizacji.",
   "editor.digits_color.label": "Kolor cyfr",
