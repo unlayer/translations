@@ -303,7 +303,7 @@
   "editor.preheader_text.description": "Preheader to krótkie streszczenie tekstu wyświetlane po linii tematu podczas przeglądania wiadomości mailowej w skrzynce elektronicznej.",
   "editor.preheader_text.label": "Tekst preheadera",
   "editor.right.label": "Prawa",
-  "editor.rounded_border.label": "Zaokrąglone obramowanie",
+  "editor.rounded_border.label": "Zaokrąglanie rogów",
   "editor.section_name.description": "Nazwa sekcji służy do tworzenia linków na stronie. Służy jako kotwica (ang. anchor) dla przycisków i linków.",
   "editor.section_name.label": "Nazwa sekcji",
   "editor.select_image.label": "Wybierz obraz",
