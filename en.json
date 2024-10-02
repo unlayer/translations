@@ -488,7 +488,7 @@
   "option_groups.colors.title": "Colors",
   "option_groups.columns.title": "Columns",
   "option_groups.column_number.title": "Column {number}",
-  "option_groups.column_properties.title": "Column Properties",
+  "option_groups.column_properties.title": "Column settings",
   "option_groups.countdown.title": "Countdown",
   "option_groups.default.title": "General",
   "option_groups.display_condition.title": "Display Condition",
