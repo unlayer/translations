@@ -220,7 +220,7 @@
   "editor.image.use_percentages": "Użyj wartości procentowych",
   "editor.image_link.label": "Typ linku",
   "editor.image_size.label": "Wielkość obrazu",
-  "editor.inherit_body_styles.label": "Dziedzicz style treści",
+  "editor.inherit_body_styles.label": "Zastosuj ustawienia stylu",
   "editor.labels.missing_languages": "Brakujące języki",
   "editor.labels.try_it_now": "Wypróbuj teraz!",
   "editor.labels.web": "Sieć",
