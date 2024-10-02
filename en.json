@@ -175,7 +175,7 @@
   "editor.hide_on_tablet.label": "Hide on Tablet",
   "editor.hover_background.label": "Hover Background Color",
   "editor.hover_color.label": "Hover Color",
-  "editor.hover_text.label": "Hover Text Color",
+  "editor.hover_text.label": "Text color on hover",
   "editor.hover_underline.label": "Hover Underline",
   "editor.icon_size.label": "Icon Size",
   "editor.icon_spacing.label": "Icon Spacing",
