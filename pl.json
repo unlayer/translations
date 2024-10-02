@@ -294,7 +294,7 @@
   "editor.mobile.description": "Edytujesz wersję mobilną. Przełącz się na widok dla komputerów, żeby edytować wszystkie elementy.",
   "editor.offline_mode_is_enabled": "Włączono tryb offline",
   "editor.padding.label": "Dopełnienie",
-  "editor.placeholder.text": "Brak zawartości. Przeciągnij zawartość z prawej strony.",
+  "editor.placeholder.text": "Przeciągnij i upuść treść w tym miejscu.",
   "editor.placeholder.text.left": "Brak tu treści. Przeciągnij treść z lewej strony.",
   "editor.placeholder.text.small": "Nie ma tu zawartości.",
   "editor.play_icon_color.label": "Kolor ikony odtwarzania",
