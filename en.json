@@ -162,7 +162,7 @@
   "editor.font_weight.700": "Bold",
   "editor.font_weight.800": "Extra Bold",
   "editor.font_weight.900": "Black",
-  "editor.font_weight.label": "Font Weight",
+  "editor.font_weight.label": "Font weight",
   "editor.form.custom": "Custom",
   "editor.form.method": "Method",
   "editor.form_alignment.label": "Form Alignment",
