@@ -392,6 +392,7 @@
   "labels.footer": "바닥글",
   "labels.format_text": "텍스트 형식",
   "labels.generated_images": "생성된 이미지",
+  "labels.generate_ai": "AI로 생성하기",
   "labels.generating": "생성 중",
   "labels.google_fonts": "구글 폰트",
   "labels.gradient": "그라데이션",
