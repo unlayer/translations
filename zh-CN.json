@@ -392,6 +392,7 @@
   "labels.footer": "页脚",
   "labels.format_text": "格式化文本",
   "labels.generated_images": "已生成的图像",
+  "labels.generate_ai": "利用 AI 生成",
   "labels.generating": "正在生成",
   "labels.google_fonts": "Google字体",
   "labels.gradient": "斜率",

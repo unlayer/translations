@@ -393,6 +393,7 @@
   "labels.footer": "Нижній колонтитул",
   "labels.format_text": "Форматувати текст",
   "labels.generated_images": "Генеровані зображення",
+  "labels.generate_ai": "Генерувати за допомогою ШІ",
   "labels.generating": "Генерування",
   "labels.google_fonts": "Шрифти Google",
   "labels.gradient": "Градієнт",

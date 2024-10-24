@@ -392,6 +392,7 @@
   "labels.footer": "フッター",
   "labels.format_text": "フォーマットテキスト",
   "labels.generated_images": "生成された画像",
+  "labels.generate_ai": "AIで生成する",
   "labels.generating": "生成中",
   "labels.google_fonts": "GoogleFonts",
   "labels.gradient": "グラデーション",

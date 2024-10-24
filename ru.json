@@ -393,6 +393,7 @@
   "labels.footer": "Футер",
   "labels.format_text": "Форматировать текст",
   "labels.generated_images": "Сгенерированные изображения",
+  "labels.generate_ai": "Генерировать с помощью ИИ",
   "labels.generating": "Генерируем",
   "labels.google_fonts": "Шрифты Google",
   "labels.gradient": "Градиент",
