@@ -452,7 +452,7 @@
   "labels.words": "単語",
   "modals.category.invalid": "これは無効なカテゴリ名です",
   "modals.category.placeholder": "カテゴリ名",
-  "modals.delete.columns": "{columns,number}{columns,plural,one{column}other{columns}}が失われます。よろしいですか？",
+  "modals.delete.columns": "{columns,number}列が失われます。よろしいですか？",
   "modals.delete.confirmation": "これを削除してもよろしいですか？このアクションは元に戻せません。",
   "modals.delete.title": "削除",
   "modals.display_conditions.title": "表示条件を選択してください",
